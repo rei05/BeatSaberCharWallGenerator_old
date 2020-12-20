@@ -1,0 +1,80 @@
+define: _eng_LA_00
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.500000
+
+define: _eng_LA_01
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_03
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LA_05
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LA_06
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LA_07
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LA_08
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LA_09
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LA_10
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LA
+	structures: _eng_LA_00, _eng_LA_01, _eng_LA_02, _eng_LA_03, _eng_LA_04, _eng_LA_05, _eng_LA_06, _eng_LA_07, _eng_LA_08, _eng_LA_09, _eng_LA_10
+

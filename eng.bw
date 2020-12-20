@@ -1,0 +1,4076 @@
+define: _eng_A_00
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 1.572917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_A_01
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_A_02
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_A_03
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_A_04
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_A_05
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_A_06
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_A_07
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_A_08
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_A_09
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_A_10
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_A_11
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_A_12
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_A
+	structures: _eng_A_00, _eng_A_01, _eng_A_02, _eng_A_03, _eng_A_04, _eng_A_05, _eng_A_06, _eng_A_07, _eng_A_08, _eng_A_09, _eng_A_10, _eng_A_11, _eng_A_12
+
+define: _eng_B_00
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_B_01
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.572917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_B_02
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.322917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_B_03
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_B_04
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_B_05
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_B_06
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 1.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_B_07
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_B_08
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_B_09
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_B_10
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_B_11
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_B
+	structures: _eng_B_00, _eng_B_01, _eng_B_02, _eng_B_03, _eng_B_04, _eng_B_05, _eng_B_06, _eng_B_07, _eng_B_08, _eng_B_09, _eng_B_10, _eng_B_11
+
+define: _eng_C_00
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 1.500000
+
+define: _eng_C_01
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 0.572917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_C_02
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_C_03
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_C_04
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_C_05
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_06
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_07
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_08
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_09
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_10
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_C_11
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_C
+	structures: _eng_C_00, _eng_C_01, _eng_C_02, _eng_C_03, _eng_C_04, _eng_C_05, _eng_C_06, _eng_C_07, _eng_C_08, _eng_C_09, _eng_C_10, _eng_C_11
+
+define: _eng_D_00
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_D_01
+	structures: Wall
+	startRow: 1.031250
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_D_02
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_D_03
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_D_04
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_D_05
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_D_06
+	structures: Wall
+	startRow: 0.281250
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_D_07
+	structures: Wall
+	startRow: 0.281250
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_D_08
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_D_09
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_D
+	structures: _eng_D_00, _eng_D_01, _eng_D_02, _eng_D_03, _eng_D_04, _eng_D_05, _eng_D_06, _eng_D_07, _eng_D_08, _eng_D_09
+
+define: _eng_E_00
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_E_01
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 3.322917
+	width: 1.750000
+	height: 0.250000
+
+define: _eng_E_02
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 0.572917
+	width: 1.750000
+	height: 0.250000
+
+define: _eng_E_03
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_E_04
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_05
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_06
+	structures: Wall
+	startRow: 0.281250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_07
+	structures: Wall
+	startRow: 0.281250
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_08
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_09
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_10
+	structures: Wall
+	startRow: 1.031250
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_E_11
+	structures: Wall
+	startRow: 1.031250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_E
+	structures: _eng_E_00, _eng_E_01, _eng_E_02, _eng_E_03, _eng_E_04, _eng_E_05, _eng_E_06, _eng_E_07, _eng_E_08, _eng_E_09, _eng_E_10, _eng_E_11
+
+define: _eng_F_00
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_F_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_F_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_F_03
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_F_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_F_05
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_F_06
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_F_07
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_F_08
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_F_09
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_F
+	structures: _eng_F_00, _eng_F_01, _eng_F_02, _eng_F_03, _eng_F_04, _eng_F_05, _eng_F_06, _eng_F_07, _eng_F_08, _eng_F_09
+
+define: _eng_G_00
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 1.250000
+
+define: _eng_G_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_G_02
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_G_03
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_G_04
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_G_05
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_G_06
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_G_07
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_G_08
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 1.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_G_09
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_G_10
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_G_11
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_G_12
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_G_13
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_G
+	structures: _eng_G_00, _eng_G_01, _eng_G_02, _eng_G_03, _eng_G_04, _eng_G_05, _eng_G_06, _eng_G_07, _eng_G_08, _eng_G_09, _eng_G_10, _eng_G_11, _eng_G_12, _eng_G_13
+
+define: _eng_H_00
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_H_01
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_H_02
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 2.072917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_H_03
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_H_04
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_H_05
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_H_06
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_H_07
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_H_08
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_H_09
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_H_10
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_H
+	structures: _eng_H_00, _eng_H_01, _eng_H_02, _eng_H_03, _eng_H_04, _eng_H_05, _eng_H_06, _eng_H_07, _eng_H_08, _eng_H_09, _eng_H_10
+
+define: _eng_I_00
+	structures: Wall
+	startRow: -0.083333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_I_01
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_I_02
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_I_03
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_I_04
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_I
+	structures: _eng_I_00, _eng_I_01, _eng_I_02, _eng_I_03, _eng_I_04
+
+define: _eng_J_00
+	structures: Wall
+	startRow: 0.156250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 2.750000
+
+define: _eng_J_01
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_J_02
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_J_03
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_J_04
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_J
+	structures: _eng_J_00, _eng_J_01, _eng_J_02, _eng_J_03, _eng_J_04
+
+define: _eng_K_00
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_K_01
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_K_02
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_K_03
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_K_04
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_K_05
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_K_06
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_07
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_08
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_09
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_10
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_11
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_12
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_13
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_14
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_15
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_K_16
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_K
+	structures: _eng_K_00, _eng_K_01, _eng_K_02, _eng_K_03, _eng_K_04, _eng_K_05, _eng_K_06, _eng_K_07, _eng_K_08, _eng_K_09, _eng_K_10, _eng_K_11, _eng_K_12, _eng_K_13, _eng_K_14, _eng_K_15, _eng_K_16
+
+define: _eng_L_00
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_L_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_L_02
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_L_03
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_L_04
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_L_05
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_L_06
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_L
+	structures: _eng_L_00, _eng_L_01, _eng_L_02, _eng_L_03, _eng_L_04, _eng_L_05, _eng_L_06
+
+define: _eng_M_00
+	structures: Wall
+	startRow: -1.385417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_M_01
+	structures: Wall
+	startRow: 1.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_M_02
+	structures: Wall
+	startRow: -0.885417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_M_03
+	structures: Wall
+	startRow: -0.635417
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_M_04
+	structures: Wall
+	startRow: 0.364583
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_M_05
+	structures: Wall
+	startRow: 0.864583
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_M_06
+	structures: Wall
+	startRow: -1.135417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_M_07
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_M_08
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_M_09
+	structures: Wall
+	startRow: 0.114583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_M_10
+	structures: Wall
+	startRow: 0.614583
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_M_11
+	structures: Wall
+	startRow: -1.635417
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_M_12
+	structures: Wall
+	startRow: -1.635417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_M_13
+	structures: Wall
+	startRow: -1.135417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_M_14
+	structures: Wall
+	startRow: 0.864583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_M_15
+	structures: Wall
+	startRow: 1.364583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_M_16
+	structures: Wall
+	startRow: 1.364583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_M
+	structures: _eng_M_00, _eng_M_01, _eng_M_02, _eng_M_03, _eng_M_04, _eng_M_05, _eng_M_06, _eng_M_07, _eng_M_08, _eng_M_09, _eng_M_10, _eng_M_11, _eng_M_12, _eng_M_13, _eng_M_14, _eng_M_15, _eng_M_16
+
+define: _eng_N_00
+	structures: Wall
+	startRow: -1.072917
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_N_01
+	structures: Wall
+	startRow: 0.927083
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_N_02
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_N_03
+	structures: Wall
+	startRow: -0.572917
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_N_04
+	structures: Wall
+	startRow: -0.072917
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_N_05
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_N_06
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_07
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_08
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_09
+	structures: Wall
+	startRow: -0.322917
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_10
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_11
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_12
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_N_13
+	structures: Wall
+	startRow: 1.177083
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_N
+	structures: _eng_N_00, _eng_N_01, _eng_N_02, _eng_N_03, _eng_N_04, _eng_N_05, _eng_N_06, _eng_N_07, _eng_N_08, _eng_N_09, _eng_N_10, _eng_N_11, _eng_N_12, _eng_N_13
+
+define: _eng_O_00
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_O_01
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_O_02
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_O_03
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_O_04
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_O_05
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_O_06
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_O_07
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_O_08
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_O_09
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_O_10
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_O_11
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: eng_O
+	structures: _eng_O_00, _eng_O_01, _eng_O_02, _eng_O_03, _eng_O_04, _eng_O_05, _eng_O_06, _eng_O_07, _eng_O_08, _eng_O_09, _eng_O_10, _eng_O_11
+
+define: _eng_P_00
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_P_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_P_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.822917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_P_03
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_P_04
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_P_05
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_P_06
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_P_07
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_P_08
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_P
+	structures: _eng_P_00, _eng_P_01, _eng_P_02, _eng_P_03, _eng_P_04, _eng_P_05, _eng_P_06, _eng_P_07, _eng_P_08
+
+define: _eng_Q_00
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.604167
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_Q_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.604167
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_Q_02
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 1.604167
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_Q_03
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 3.354167
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_Q_04
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 2.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_05
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_06
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_07
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_08
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 2.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_09
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_10
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_11
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_12
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.354167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_13
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_14
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_15
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_16
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_17
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: eng_Q
+	structures: _eng_Q_00, _eng_Q_01, _eng_Q_02, _eng_Q_03, _eng_Q_04, _eng_Q_05, _eng_Q_06, _eng_Q_07, _eng_Q_08, _eng_Q_09, _eng_Q_10, _eng_Q_11, _eng_Q_12, _eng_Q_13, _eng_Q_14, _eng_Q_15, _eng_Q_16, _eng_Q_17
+
+define: _eng_R_00
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_R_01
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.322917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_R_02
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_R_03
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_R_04
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_R_05
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_R_06
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_R_07
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_R_08
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_R_09
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_R_10
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_R_11
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_R_12
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_R
+	structures: _eng_R_00, _eng_R_01, _eng_R_02, _eng_R_03, _eng_R_04, _eng_R_05, _eng_R_06, _eng_R_07, _eng_R_08, _eng_R_09, _eng_R_10, _eng_R_11, _eng_R_12
+
+define: _eng_S_00
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_S_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_S_02
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_S_03
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.072917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_S_04
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.822917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_S_05
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_S_06
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_S_07
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_S_08
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_S_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_S_10
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_S_11
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_S_12
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_S
+	structures: _eng_S_00, _eng_S_01, _eng_S_02, _eng_S_03, _eng_S_04, _eng_S_05, _eng_S_06, _eng_S_07, _eng_S_08, _eng_S_09, _eng_S_10, _eng_S_11, _eng_S_12
+
+define: _eng_T_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_T_01
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_T_02
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_T_03
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_T_04
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_T_05
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_T_06
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_T_07
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_T_08
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_T
+	structures: _eng_T_00, _eng_T_01, _eng_T_02, _eng_T_03, _eng_T_04, _eng_T_05, _eng_T_06, _eng_T_07, _eng_T_08
+
+define: _eng_U_00
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 2.500000
+
+define: _eng_U_01
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 2.500000
+
+define: _eng_U_02
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_U_03
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_U_04
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_U_05
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_U_06
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_U_07
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_U_08
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_U
+	structures: _eng_U_00, _eng_U_01, _eng_U_02, _eng_U_03, _eng_U_04, _eng_U_05, _eng_U_06, _eng_U_07, _eng_U_08
+
+define: _eng_V_00
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_V_01
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_V_02
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_V_03
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_V_04
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_V_05
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_V_06
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_V_07
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_V_08
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_V_09
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_V_10
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_V_11
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_V_12
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_V
+	structures: _eng_V_00, _eng_V_01, _eng_V_02, _eng_V_03, _eng_V_04, _eng_V_05, _eng_V_06, _eng_V_07, _eng_V_08, _eng_V_09, _eng_V_10, _eng_V_11, _eng_V_12
+
+define: _eng_W_00
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 1.500000
+
+define: _eng_W_01
+	structures: Wall
+	startRow: -1.395833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_W_02
+	structures: Wall
+	startRow: 1.354167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_W_03
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_04
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_05
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_06
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_07
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_08
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_W_09
+	structures: Wall
+	startRow: -1.645833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_W_10
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_W_11
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_W_12
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_W_13
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_W_14
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_W_15
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_W_16
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_W_17
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_W_18
+	structures: Wall
+	startRow: 1.604167
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_W
+	structures: _eng_W_00, _eng_W_01, _eng_W_02, _eng_W_03, _eng_W_04, _eng_W_05, _eng_W_06, _eng_W_07, _eng_W_08, _eng_W_09, _eng_W_10, _eng_W_11, _eng_W_12, _eng_W_13, _eng_W_14, _eng_W_15, _eng_W_16, _eng_W_17, _eng_W_18
+
+define: _eng_X_00
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_X_01
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_X_02
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_X_03
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_X_04
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_05
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_06
+	structures: Wall
+	startRow: -0.572917
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_07
+	structures: Wall
+	startRow: -0.572917
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_08
+	structures: Wall
+	startRow: -0.322917
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_09
+	structures: Wall
+	startRow: -0.072917
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_10
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_11
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_12
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_X_13
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_X_14
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_X
+	structures: _eng_X_00, _eng_X_01, _eng_X_02, _eng_X_03, _eng_X_04, _eng_X_05, _eng_X_06, _eng_X_07, _eng_X_08, _eng_X_09, _eng_X_10, _eng_X_11, _eng_X_12, _eng_X_13, _eng_X_14
+
+define: _eng_Y_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.250000
+
+define: _eng_Y_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_Y_02
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_Y_03
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Y_04
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Y_05
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Y_06
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Y_07
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Y_08
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Y_09
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Y_10
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Y_11
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_Y
+	structures: _eng_Y_00, _eng_Y_01, _eng_Y_02, _eng_Y_03, _eng_Y_04, _eng_Y_05, _eng_Y_06, _eng_Y_07, _eng_Y_08, _eng_Y_09, _eng_Y_10, _eng_Y_11
+
+define: _eng_Z_00
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.572917
+	width: 2.250000
+	height: 0.250000
+
+define: _eng_Z_01
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 3.322917
+	width: 2.000000
+	height: 0.250000
+
+define: _eng_Z_02
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Z_03
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Z_04
+	structures: Wall
+	startRow: -0.020833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Z_05
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Z_06
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Z_07
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_08
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_09
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_10
+	structures: Wall
+	startRow: -0.270833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_11
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_12
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Z_13
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_Z
+	structures: _eng_Z_00, _eng_Z_01, _eng_Z_02, _eng_Z_03, _eng_Z_04, _eng_Z_05, _eng_Z_06, _eng_Z_07, _eng_Z_08, _eng_Z_09, _eng_Z_10, _eng_Z_11, _eng_Z_12, _eng_Z_13
+
+define: _eng_LA_00
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.500000
+
+define: _eng_LA_01
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_03
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LA_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LA_05
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LA_06
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LA_07
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LA_08
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LA_09
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LA_10
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LA
+	structures: _eng_LA_00, _eng_LA_01, _eng_LA_02, _eng_LA_03, _eng_LA_04, _eng_LA_05, _eng_LA_06, _eng_LA_07, _eng_LA_08, _eng_LA_09, _eng_LA_10
+
+define: _eng_LB_00
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_LB_01
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LB_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LB_03
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LB_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LB_05
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LB_06
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LB_07
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LB_08
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LB
+	structures: _eng_LB_00, _eng_LB_01, _eng_LB_02, _eng_LB_03, _eng_LB_04, _eng_LB_05, _eng_LB_06, _eng_LB_07, _eng_LB_08
+
+define: _eng_LC_00
+	structures: Wall
+	startRow: -0.906250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LC_01
+	structures: Wall
+	startRow: -0.406250
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LC_02
+	structures: Wall
+	startRow: -0.406250
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LC_03
+	structures: Wall
+	startRow: 0.593750
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LC_04
+	structures: Wall
+	startRow: 0.593750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LC_05
+	structures: Wall
+	startRow: -0.656250
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LC_06
+	structures: Wall
+	startRow: -0.656250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LC_07
+	structures: Wall
+	startRow: 0.343750
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LC_08
+	structures: Wall
+	startRow: 0.343750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LC
+	structures: _eng_LC_00, _eng_LC_01, _eng_LC_02, _eng_LC_03, _eng_LC_04, _eng_LC_05, _eng_LC_06, _eng_LC_07, _eng_LC_08
+
+define: _eng_LD_00
+	structures: Wall
+	startRow: 0.541667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_LD_01
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LD_02
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LD_03
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LD_04
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LD_05
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LD_06
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LD_07
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LD_08
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LD_09
+	structures: Wall
+	startRow: 0.791667
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LD
+	structures: _eng_LD_00, _eng_LD_01, _eng_LD_02, _eng_LD_03, _eng_LD_04, _eng_LD_05, _eng_LD_06, _eng_LD_07, _eng_LD_08, _eng_LD_09
+
+define: _eng_LE_00
+	structures: Wall
+	startRow: -0.854167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LE_01
+	structures: Wall
+	startRow: -0.104167
+	startHeight: 1.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LE_02
+	structures: Wall
+	startRow: -0.354167
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LE_03
+	structures: Wall
+	startRow: -0.354167
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LE_04
+	structures: Wall
+	startRow: -0.604167
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LE_05
+	structures: Wall
+	startRow: -0.604167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LE_06
+	structures: Wall
+	startRow: -0.604167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LE_07
+	structures: Wall
+	startRow: 0.395833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LE_08
+	structures: Wall
+	startRow: 0.645833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LE_09
+	structures: Wall
+	startRow: 0.645833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LE
+	structures: _eng_LE_00, _eng_LE_01, _eng_LE_02, _eng_LE_03, _eng_LE_04, _eng_LE_05, _eng_LE_06, _eng_LE_07, _eng_LE_08, _eng_LE_09
+
+define: _eng_LF_00
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.750000
+
+define: _eng_LF_01
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LF_02
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LF_03
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 2.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LF_04
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LF_05
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LF_06
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LF
+	structures: _eng_LF_00, _eng_LF_01, _eng_LF_02, _eng_LF_03, _eng_LF_04, _eng_LF_05, _eng_LF_06
+
+define: _eng_LG_00
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.854167
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_LG_01
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.104167
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_LG_02
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LG_03
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LG_04
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.354167
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LG_05
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 1.354167
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LG_06
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LG_07
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 2.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LG_08
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LG_09
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LG_10
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LG
+	structures: _eng_LG_00, _eng_LG_01, _eng_LG_02, _eng_LG_03, _eng_LG_04, _eng_LG_05, _eng_LG_06, _eng_LG_07, _eng_LG_08, _eng_LG_09, _eng_LG_10
+
+define: _eng_LH_00
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_LH_01
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.500000
+
+define: _eng_LH_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LH_03
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_05
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_06
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_07
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_08
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LH_09
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LH
+	structures: _eng_LH_00, _eng_LH_01, _eng_LH_02, _eng_LH_03, _eng_LH_04, _eng_LH_05, _eng_LH_06, _eng_LH_07, _eng_LH_08, _eng_LH_09
+
+define: _eng_LI_00
+	structures: Wall
+	startRow: -0.083333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.250000
+
+define: _eng_LI_01
+	structures: Wall
+	startRow: -0.083333
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LI_02
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LI_03
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LI_04
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LI
+	structures: _eng_LI_00, _eng_LI_01, _eng_LI_02, _eng_LI_03, _eng_LI_04
+
+define: _eng_LJ_00
+	structures: Wall
+	startRow: 0.114583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 2.500000
+
+define: _eng_LJ_01
+	structures: Wall
+	startRow: 0.114583
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LJ_02
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LJ_03
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LJ_04
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LJ
+	structures: _eng_LJ_00, _eng_LJ_01, _eng_LJ_02, _eng_LJ_03, _eng_LJ_04
+
+define: _eng_LK_00
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_LK_01
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LK_02
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LK_03
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LK_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_05
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_06
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_07
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_08
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_09
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_10
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LK_11
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LK
+	structures: _eng_LK_00, _eng_LK_01, _eng_LK_02, _eng_LK_03, _eng_LK_04, _eng_LK_05, _eng_LK_06, _eng_LK_07, _eng_LK_08, _eng_LK_09, _eng_LK_10, _eng_LK_11
+
+define: _eng_LL_00
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _eng_LL_01
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LL_02
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LL_03
+	structures: Wall
+	startRow: 0.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LL
+	structures: _eng_LL_00, _eng_LL_01, _eng_LL_02, _eng_LL_03
+
+define: _eng_LM_00
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.000000
+
+define: _eng_LM_01
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.750000
+
+define: _eng_LM_02
+	structures: Wall
+	startRow: 0.968750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.750000
+
+define: _eng_LM_03
+	structures: Wall
+	startRow: 0.218750
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LM_04
+	structures: Wall
+	startRow: -0.781250
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LM_05
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_06
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_07
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_08
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_09
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_10
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_11
+	structures: Wall
+	startRow: 0.718750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LM_12
+	structures: Wall
+	startRow: 1.218750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LM
+	structures: _eng_LM_00, _eng_LM_01, _eng_LM_02, _eng_LM_03, _eng_LM_04, _eng_LM_05, _eng_LM_06, _eng_LM_07, _eng_LM_08, _eng_LM_09, _eng_LM_10, _eng_LM_11, _eng_LM_12
+
+define: _eng_LN_00
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.000000
+
+define: _eng_LN_01
+	structures: Wall
+	startRow: 0.541667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.750000
+
+define: _eng_LN_02
+	structures: Wall
+	startRow: -0.208333
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LN_03
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LN_04
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LN_05
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LN_06
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LN_07
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LN_08
+	structures: Wall
+	startRow: 0.791667
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LN
+	structures: _eng_LN_00, _eng_LN_01, _eng_LN_02, _eng_LN_03, _eng_LN_04, _eng_LN_05, _eng_LN_06, _eng_LN_07, _eng_LN_08
+
+define: _eng_LO_00
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LO_01
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LO_02
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LO_03
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LO_04
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LO_05
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LO_06
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LO_07
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LO
+	structures: _eng_LO_00, _eng_LO_01, _eng_LO_02, _eng_LO_03, _eng_LO_04, _eng_LO_05, _eng_LO_06, _eng_LO_07
+
+define: _eng_LP_00
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.052083
+	width: 0.250000
+	height: 2.500000
+
+define: _eng_LP_01
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 1.052083
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LP_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 2.302083
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LP_03
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 0.552083
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LP_04
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_05
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_06
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_07
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_08
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_09
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LP_10
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LP
+	structures: _eng_LP_00, _eng_LP_01, _eng_LP_02, _eng_LP_03, _eng_LP_04, _eng_LP_05, _eng_LP_06, _eng_LP_07, _eng_LP_08, _eng_LP_09, _eng_LP_10
+
+define: _eng_LQ_00
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.052083
+	width: 0.250000
+	height: 2.500000
+
+define: _eng_LQ_01
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.052083
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LQ_02
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 2.302083
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LQ_03
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.552083
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LQ_04
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LQ_05
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LQ_06
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LQ_07
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LQ_08
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LQ_09
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.052083
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LQ
+	structures: _eng_LQ_00, _eng_LQ_01, _eng_LQ_02, _eng_LQ_03, _eng_LQ_04, _eng_LQ_05, _eng_LQ_06, _eng_LQ_07, _eng_LQ_08, _eng_LQ_09
+
+define: _eng_LR_00
+	structures: Wall
+	startRow: -0.552083
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.000000
+
+define: _eng_LR_01
+	structures: Wall
+	startRow: -0.052083
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LR_02
+	structures: Wall
+	startRow: -0.802083
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LR_03
+	structures: Wall
+	startRow: -0.802083
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LR_04
+	structures: Wall
+	startRow: -0.302083
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LR_05
+	structures: Wall
+	startRow: -0.302083
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LR_06
+	structures: Wall
+	startRow: 0.447917
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LR
+	structures: _eng_LR_00, _eng_LR_01, _eng_LR_02, _eng_LR_03, _eng_LR_04, _eng_LR_05, _eng_LR_06
+
+define: _eng_LS_00
+	structures: Wall
+	startRow: -0.500000
+	startHeight: 2.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LS_01
+	structures: Wall
+	startRow: -0.500000
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _eng_LS_02
+	structures: Wall
+	startRow: -0.500000
+	startHeight: 1.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LS_03
+	structures: Wall
+	startRow: -0.750000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LS_04
+	structures: Wall
+	startRow: -0.750000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LS_05
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LS_06
+	structures: Wall
+	startRow: 0.250000
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LS_07
+	structures: Wall
+	startRow: 0.250000
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LS_08
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LS
+	structures: _eng_LS_00, _eng_LS_01, _eng_LS_02, _eng_LS_03, _eng_LS_04, _eng_LS_05, _eng_LS_06, _eng_LS_07, _eng_LS_08
+
+define: _eng_LT_00
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 2.250000
+
+define: _eng_LT_01
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LT_02
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_LT_03
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LT_04
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LT
+	structures: _eng_LT_00, _eng_LT_01, _eng_LT_02, _eng_LT_03, _eng_LT_04
+
+define: _eng_LU_00
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 2.000000
+
+define: _eng_LU_01
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 1.750000
+
+define: _eng_LU_02
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LU_03
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LU_04
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LU_05
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LU_06
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LU
+	structures: _eng_LU_00, _eng_LU_01, _eng_LU_02, _eng_LU_03, _eng_LU_04, _eng_LU_05, _eng_LU_06
+
+define: _eng_LV_00
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LV_01
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LV_02
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LV_03
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LV_04
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LV_05
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LV_06
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LV_07
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LV_08
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LV
+	structures: _eng_LV_00, _eng_LV_01, _eng_LV_02, _eng_LV_03, _eng_LV_04, _eng_LV_05, _eng_LV_06, _eng_LV_07, _eng_LV_08
+
+define: _eng_LW_00
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_LW_01
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_02
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_03
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_04
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_05
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_06
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LW_07
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LW_08
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LW_09
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LW_10
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LW_11
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LW_12
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LW_13
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LW_14
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LW
+	structures: _eng_LW_00, _eng_LW_01, _eng_LW_02, _eng_LW_03, _eng_LW_04, _eng_LW_05, _eng_LW_06, _eng_LW_07, _eng_LW_08, _eng_LW_09, _eng_LW_10, _eng_LW_11, _eng_LW_12, _eng_LW_13, _eng_LW_14
+
+define: _eng_LX_00
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LX_01
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LX_02
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LX_03
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LX_04
+	structures: Wall
+	startRow: -0.208333
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LX_05
+	structures: Wall
+	startRow: 0.041667
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LX_06
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_07
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_08
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_09
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_10
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_11
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_12
+	structures: Wall
+	startRow: 0.541667
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LX_13
+	structures: Wall
+	startRow: 0.541667
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LX
+	structures: _eng_LX_00, _eng_LX_01, _eng_LX_02, _eng_LX_03, _eng_LX_04, _eng_LX_05, _eng_LX_06, _eng_LX_07, _eng_LX_08, _eng_LX_09, _eng_LX_10, _eng_LX_11, _eng_LX_12, _eng_LX_13
+
+define: _eng_LY_00
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.854167
+	width: 0.250000
+	height: 0.750000
+
+define: _eng_LY_01
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.354167
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_LY_02
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LY_03
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LY_04
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LY_05
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LY_06
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 1.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_LY_07
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LY_08
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LY_09
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LY_10
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LY_11
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LY_12
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LY
+	structures: _eng_LY_00, _eng_LY_01, _eng_LY_02, _eng_LY_03, _eng_LY_04, _eng_LY_05, _eng_LY_06, _eng_LY_07, _eng_LY_08, _eng_LY_09, _eng_LY_10, _eng_LY_11, _eng_LY_12
+
+define: _eng_LZ_00
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 0.572917
+	width: 1.750000
+	height: 0.250000
+
+define: _eng_LZ_01
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.322917
+	width: 1.500000
+	height: 0.250000
+
+define: _eng_LZ_02
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_03
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_04
+	structures: Wall
+	startRow: -0.760417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_05
+	structures: Wall
+	startRow: -0.510417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_06
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_07
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_08
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_09
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_10
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_LZ_11
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: eng_LZ
+	structures: _eng_LZ_00, _eng_LZ_01, _eng_LZ_02, _eng_LZ_03, _eng_LZ_04, _eng_LZ_05, _eng_LZ_06, _eng_LZ_07, _eng_LZ_08, _eng_LZ_09, _eng_LZ_10, _eng_LZ_11
+

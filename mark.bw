@@ -1,0 +1,4395 @@
+define: _mark_0_00
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_0_01
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_0_02
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_0_03
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_0_04
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_0_05
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_0_06
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_0_07
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_0_08
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_0_09
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_0_10
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_0_11
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_0
+	structures: _mark_0_00, _mark_0_01, _mark_0_02, _mark_0_03, _mark_0_04, _mark_0_05, _mark_0_06, _mark_0_07, _mark_0_08, _mark_0_09, _mark_0_10, _mark_0_11
+
+define: _mark_1_00
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_1_01
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_1_02
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_1_03
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: mark_1
+	structures: _mark_1_00, _mark_1_01, _mark_1_02, _mark_1_03
+
+define: _mark_2_00
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.572917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_2_01
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 3.322917
+	width: 1.250000
+	height: 0.250000
+
+define: _mark_2_02
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_2_03
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_2_04
+	structures: Wall
+	startRow: -0.020833
+	startHeight: 1.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_2_05
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_2_06
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_07
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_08
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_09
+	structures: Wall
+	startRow: -0.270833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_10
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_11
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_12
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_2_13
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_2
+	structures: _mark_2_00, _mark_2_01, _mark_2_02, _mark_2_03, _mark_2_04, _mark_2_05, _mark_2_06, _mark_2_07, _mark_2_08, _mark_2_09, _mark_2_10, _mark_2_11, _mark_2_12, _mark_2_13
+
+define: _mark_3_00
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_3_01
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 2.072917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_3_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_3_03
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_3_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_3_05
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_3_06
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_3_07
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_3_08
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_3_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_3_10
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_3_11
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_3_12
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_3_13
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_3
+	structures: _mark_3_00, _mark_3_01, _mark_3_02, _mark_3_03, _mark_3_04, _mark_3_05, _mark_3_06, _mark_3_07, _mark_3_08, _mark_3_09, _mark_3_10, _mark_3_11, _mark_3_12, _mark_3_13
+
+define: _mark_4_00
+	structures: Wall
+	startRow: 0.281250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_4_01
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.322917
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_4_02
+	structures: Wall
+	startRow: 0.531250
+	startHeight: 1.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_4_03
+	structures: Wall
+	startRow: -0.468750
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_4_04
+	structures: Wall
+	startRow: -0.218750
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_4_05
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_4_06
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_4_07
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_4_08
+	structures: Wall
+	startRow: -0.218750
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_4_09
+	structures: Wall
+	startRow: 0.031250
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_4_10
+	structures: Wall
+	startRow: 0.531250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_4
+	structures: _mark_4_00, _mark_4_01, _mark_4_02, _mark_4_03, _mark_4_04, _mark_4_05, _mark_4_06, _mark_4_07, _mark_4_08, _mark_4_09, _mark_4_10
+
+define: _mark_5_00
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.322917
+	width: 1.750000
+	height: 0.250000
+
+define: _mark_5_01
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_5_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_5_03
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 2.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_5_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_5_05
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_5_06
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_5_07
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_5_08
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_5_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_5_10
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_5_11
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_5_12
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_5
+	structures: _mark_5_00, _mark_5_01, _mark_5_02, _mark_5_03, _mark_5_04, _mark_5_05, _mark_5_06, _mark_5_07, _mark_5_08, _mark_5_09, _mark_5_10, _mark_5_11, _mark_5_12
+
+define: _mark_6_00
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.322917
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_6_01
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 2.072917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_6_02
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.572917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_6_03
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_6_04
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_6_05
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_6_06
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_6_07
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_6_08
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_6_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_6_10
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_6_11
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_6_12
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_6_13
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_6_14
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_6
+	structures: _mark_6_00, _mark_6_01, _mark_6_02, _mark_6_03, _mark_6_04, _mark_6_05, _mark_6_06, _mark_6_07, _mark_6_08, _mark_6_09, _mark_6_10, _mark_6_11, _mark_6_12, _mark_6_13, _mark_6_14
+
+define: _mark_7_00
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 3.322917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_7_01
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_7_02
+	structures: Wall
+	startRow: -0.270833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_7_03
+	structures: Wall
+	startRow: -0.020833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_7_04
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_7_05
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_7_06
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_7_07
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_7_08
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_7
+	structures: _mark_7_00, _mark_7_01, _mark_7_02, _mark_7_03, _mark_7_04, _mark_7_05, _mark_7_06, _mark_7_07, _mark_7_08
+
+define: _mark_8_00
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 2.072917
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_8_01
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 0.572917
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_8_02
+	structures: Wall
+	startRow: -0.468750
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_8_03
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_8_04
+	structures: Wall
+	startRow: 1.031250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_8_05
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_8_06
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_8_07
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_08
+	structures: Wall
+	startRow: -0.968750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_09
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_10
+	structures: Wall
+	startRow: -0.718750
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_11
+	structures: Wall
+	startRow: 0.531250
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_12
+	structures: Wall
+	startRow: 0.531250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_13
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_8_14
+	structures: Wall
+	startRow: 0.781250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_8
+	structures: _mark_8_00, _mark_8_01, _mark_8_02, _mark_8_03, _mark_8_04, _mark_8_05, _mark_8_06, _mark_8_07, _mark_8_08, _mark_8_09, _mark_8_10, _mark_8_11, _mark_8_12, _mark_8_13, _mark_8_14
+
+define: _mark_9_00
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_9_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.822917
+	width: 1.250000
+	height: 0.250000
+
+define: _mark_9_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_9_03
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_9_04
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_9_05
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_9_06
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_9_07
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_9_08
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_9_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_9_10
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_9_11
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_9_12
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_9_13
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_9
+	structures: _mark_9_00, _mark_9_01, _mark_9_02, _mark_9_03, _mark_9_04, _mark_9_05, _mark_9_06, _mark_9_07, _mark_9_08, _mark_9_09, _mark_9_10, _mark_9_11, _mark_9_12, _mark_9_13
+
+define: _mark_Plus_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_Plus_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: _mark_Plus_02
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.072917
+	width: 1.250000
+	height: 0.250000
+
+define: mark_Plus
+	structures: _mark_Plus_00, _mark_Plus_01, _mark_Plus_02
+
+define: _mark_Minus_00
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 2.031250
+	width: 2.750000
+	height: 0.250000
+
+define: mark_Minus
+	structures: _mark_Minus_00
+
+define: _mark_Multi_00
+	structures: Wall
+	startRow: -0.270833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Multi_01
+	structures: Wall
+	startRow: -0.020833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Multi_02
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_03
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_04
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_05
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_06
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_07
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_08
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_09
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_10
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_11
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_12
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_13
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_14
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_15
+	structures: Wall
+	startRow: 0.729167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_16
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Multi_17
+	structures: Wall
+	startRow: 0.979167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Multi
+	structures: _mark_Multi_00, _mark_Multi_01, _mark_Multi_02, _mark_Multi_03, _mark_Multi_04, _mark_Multi_05, _mark_Multi_06, _mark_Multi_07, _mark_Multi_08, _mark_Multi_09, _mark_Multi_10, _mark_Multi_11, _mark_Multi_12, _mark_Multi_13, _mark_Multi_14, _mark_Multi_15, _mark_Multi_16, _mark_Multi_17
+
+define: _mark_Div_00
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.822917
+	width: 2.500000
+	height: 0.250000
+
+define: _mark_Div_01
+	structures: Wall
+	startRow: -0.218750
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Div_02
+	structures: Wall
+	startRow: -0.218750
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Div_03
+	structures: Wall
+	startRow: 0.031250
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Div_04
+	structures: Wall
+	startRow: 0.031250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: mark_Div
+	structures: _mark_Div_00, _mark_Div_01, _mark_Div_02, _mark_Div_03, _mark_Div_04
+
+define: _mark_Equal_00
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 2.052083
+	width: 2.500000
+	height: 0.250000
+
+define: _mark_Equal_01
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.302083
+	width: 2.500000
+	height: 0.250000
+
+define: mark_Equal
+	structures: _mark_Equal_00, _mark_Equal_01
+
+define: _mark_jpComma_00
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpComma_01
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpComma_02
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpComma_03
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_jpComma
+	structures: _mark_jpComma_00, _mark_jpComma_01, _mark_jpComma_02, _mark_jpComma_03
+
+define: _mark_jpPeriod_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 0.302083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_jpPeriod_01
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 0.302083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_jpPeriod_02
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.052083
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_jpPeriod_03
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.052083
+	width: 0.750000
+	height: 0.250000
+
+define: mark_jpPeriod
+	structures: _mark_jpPeriod_00, _mark_jpPeriod_01, _mark_jpPeriod_02, _mark_jpPeriod_03
+
+define: _mark_Comma_00
+	structures: Wall
+	startRow: -1.541667
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Comma_01
+	structures: Wall
+	startRow: -1.791667
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Comma_02
+	structures: Wall
+	startRow: -1.791667
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Comma
+	structures: _mark_Comma_00, _mark_Comma_01, _mark_Comma_02
+
+define: _mark_Period_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Period_01
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: mark_Period
+	structures: _mark_Period_00, _mark_Period_01
+
+define: _mark_Apostrophe_00
+	structures: Wall
+	startRow: 0.010417
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Apostrophe_01
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Apostrophe_02
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Apostrophe_03
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Apostrophe
+	structures: _mark_Apostrophe_00, _mark_Apostrophe_01, _mark_Apostrophe_02, _mark_Apostrophe_03
+
+define: _mark_Hat_00
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Hat_01
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Hat_02
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 3.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Hat_03
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Hat
+	structures: _mark_Hat_00, _mark_Hat_01, _mark_Hat_02, _mark_Hat_03
+
+define: _mark_Colon_00
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 2.291667
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Colon_01
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 1.041667
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Colon_02
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 2.291667
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Colon_03
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 1.041667
+	width: 0.250000
+	height: 0.500000
+
+define: mark_Colon
+	structures: _mark_Colon_00, _mark_Colon_01, _mark_Colon_02, _mark_Colon_03
+
+define: _mark_SemiColon_00
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_SemiColon_01
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_SemiColon_02
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_SemiColon_03
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_SemiColon_04
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_SemiColon
+	structures: _mark_SemiColon_00, _mark_SemiColon_01, _mark_SemiColon_02, _mark_SemiColon_03, _mark_SemiColon_04
+
+define: _mark_jpLongSound_00
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 2.031250
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_jpLongSound_01
+	structures: Wall
+	startRow: -1.583333
+	startHeight: 2.281250
+	width: 0.250000
+	height: 0.250000
+
+define: mark_jpLongSound
+	structures: _mark_jpLongSound_00, _mark_jpLongSound_01
+
+define: _mark_WaveDash_00
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 2.062500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_WaveDash_01
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 1.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_WaveDash_02
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 1.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_WaveDash_03
+	structures: Wall
+	startRow: -1.583333
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_WaveDash_04
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_WaveDash_05
+	structures: Wall
+	startRow: 1.416667
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_WaveDash
+	structures: _mark_WaveDash_00, _mark_WaveDash_01, _mark_WaveDash_02, _mark_WaveDash_03, _mark_WaveDash_04, _mark_WaveDash_05
+
+define: _mark_Exclamation_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.322917
+	width: 0.250000
+	height: 2.250000
+
+define: _mark_Exclamation_01
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: mark_Exclamation
+	structures: _mark_Exclamation_00, _mark_Exclamation_01
+
+define: _mark_Question_00
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Question_01
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Question_02
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Question_03
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Question_04
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Question_05
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Question_06
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Question_07
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Question_08
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Question
+	structures: _mark_Question_00, _mark_Question_01, _mark_Question_02, _mark_Question_03, _mark_Question_04, _mark_Question_05, _mark_Question_06, _mark_Question_07, _mark_Question_08
+
+define: _mark_Sharp_00
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.572917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_Sharp_01
+	structures: Wall
+	startRow: -1.020833
+	startHeight: 2.322917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_Sharp_02
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 1.572917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_Sharp_03
+	structures: Wall
+	startRow: -1.270833
+	startHeight: 1.322917
+	width: 2.250000
+	height: 0.250000
+
+define: _mark_Sharp_04
+	structures: Wall
+	startRow: -0.270833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Sharp_05
+	structures: Wall
+	startRow: 0.479167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Sharp_06
+	structures: Wall
+	startRow: -0.770833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Sharp_07
+	structures: Wall
+	startRow: -0.020833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Sharp_08
+	structures: Wall
+	startRow: -0.520833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Sharp_09
+	structures: Wall
+	startRow: 0.229167
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: mark_Sharp
+	structures: _mark_Sharp_00, _mark_Sharp_01, _mark_Sharp_02, _mark_Sharp_03, _mark_Sharp_04, _mark_Sharp_05, _mark_Sharp_06, _mark_Sharp_07, _mark_Sharp_08, _mark_Sharp_09
+
+define: _mark_Dollar_00
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 0.052083
+	width: 0.250000
+	height: 3.750000
+
+define: _mark_Dollar_01
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Dollar_02
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.552083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Dollar_03
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.052083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Dollar_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.552083
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Dollar_05
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.302083
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Dollar_06
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.052083
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Dollar_07
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 1.802083
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Dollar_08
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.552083
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Dollar_09
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 0.552083
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Dollar_10
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_11
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.302083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_12
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_13
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 3.302083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_14
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_15
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.052083
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Dollar_16
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.802083
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Dollar
+	structures: _mark_Dollar_00, _mark_Dollar_01, _mark_Dollar_02, _mark_Dollar_03, _mark_Dollar_04, _mark_Dollar_05, _mark_Dollar_06, _mark_Dollar_07, _mark_Dollar_08, _mark_Dollar_09, _mark_Dollar_10, _mark_Dollar_11, _mark_Dollar_12, _mark_Dollar_13, _mark_Dollar_14, _mark_Dollar_15, _mark_Dollar_16
+
+define: _mark_Percent_00
+	structures: Wall
+	startRow: -1.583333
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Percent_01
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Percent_02
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Percent_03
+	structures: Wall
+	startRow: 1.416667
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Percent_04
+	structures: Wall
+	startRow: -0.583333
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Percent_05
+	structures: Wall
+	startRow: -0.083333
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Percent_06
+	structures: Wall
+	startRow: 0.666667
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Percent_07
+	structures: Wall
+	startRow: -1.083333
+	startHeight: 3.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Percent_08
+	structures: Wall
+	startRow: -1.083333
+	startHeight: 2.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Percent_09
+	structures: Wall
+	startRow: 0.666667
+	startHeight: 2.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Percent_10
+	structures: Wall
+	startRow: 0.666667
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Percent_11
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_12
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_13
+	structures: Wall
+	startRow: -1.083333
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_14
+	structures: Wall
+	startRow: -0.833333
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_15
+	structures: Wall
+	startRow: -0.583333
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_16
+	structures: Wall
+	startRow: -0.583333
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_17
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_18
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_19
+	structures: Wall
+	startRow: 0.416667
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_20
+	structures: Wall
+	startRow: 0.416667
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_21
+	structures: Wall
+	startRow: 0.416667
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_22
+	structures: Wall
+	startRow: 0.916667
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_23
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 3.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_24
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Percent_25
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Percent
+	structures: _mark_Percent_00, _mark_Percent_01, _mark_Percent_02, _mark_Percent_03, _mark_Percent_04, _mark_Percent_05, _mark_Percent_06, _mark_Percent_07, _mark_Percent_08, _mark_Percent_09, _mark_Percent_10, _mark_Percent_11, _mark_Percent_12, _mark_Percent_13, _mark_Percent_14, _mark_Percent_15, _mark_Percent_16, _mark_Percent_17, _mark_Percent_18, _mark_Percent_19, _mark_Percent_20, _mark_Percent_21, _mark_Percent_22, _mark_Percent_23, _mark_Percent_24, _mark_Percent_25
+
+define: _mark_And_00
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_01
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_02
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_03
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_04
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_05
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_And_06
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_And_07
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_And_08
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_And_09
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 0.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_And_10
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_11
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_12
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_13
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_14
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_15
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_16
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_17
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_18
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_19
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_And_20
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_And
+	structures: _mark_And_00, _mark_And_01, _mark_And_02, _mark_And_03, _mark_And_04, _mark_And_05, _mark_And_06, _mark_And_07, _mark_And_08, _mark_And_09, _mark_And_10, _mark_And_11, _mark_And_12, _mark_And_13, _mark_And_14, _mark_And_15, _mark_And_16, _mark_And_17, _mark_And_18, _mark_And_19, _mark_And_20
+
+define: _mark_Yen_00
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.822917
+	width: 2.750000
+	height: 0.250000
+
+define: _mark_Yen_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.322917
+	width: 2.750000
+	height: 0.250000
+
+define: _mark_Yen_02
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.572917
+	width: 1.250000
+	height: 0.250000
+
+define: _mark_Yen_03
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Yen_04
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.322917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Yen_05
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Yen_06
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Yen_07
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_08
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_09
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_10
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_11
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_12
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Yen_13
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Yen
+	structures: _mark_Yen_00, _mark_Yen_01, _mark_Yen_02, _mark_Yen_03, _mark_Yen_04, _mark_Yen_05, _mark_Yen_06, _mark_Yen_07, _mark_Yen_08, _mark_Yen_09, _mark_Yen_10, _mark_Yen_11, _mark_Yen_12, _mark_Yen_13
+
+define: _mark_Postal_00
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 3.322917
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_Postal_01
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 2.322917
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_Postal_02
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 0.572917
+	width: 0.250000
+	height: 1.750000
+
+define: mark_Postal
+	structures: _mark_Postal_00, _mark_Postal_01, _mark_Postal_02
+
+define: _mark_QuarterNote_00
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 2.750000
+
+define: _mark_QuarterNote_01
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.822917
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_QuarterNote_02
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.072917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_QuarterNote_03
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_QuarterNote_04
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_QuarterNote_05
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_QuarterNote_06
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_QuarterNote_07
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_QuarterNote_08
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: mark_QuarterNote
+	structures: _mark_QuarterNote_00, _mark_QuarterNote_01, _mark_QuarterNote_02, _mark_QuarterNote_03, _mark_QuarterNote_04, _mark_QuarterNote_05, _mark_QuarterNote_06, _mark_QuarterNote_07, _mark_QuarterNote_08
+
+define: _mark_At_00
+	structures: Wall
+	startRow: 0.270833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_At_01
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 0.572917
+	width: 1.250000
+	height: 0.250000
+
+define: _mark_At_02
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_At_03
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 1.572917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_At_04
+	structures: Wall
+	startRow: 1.270833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_At_05
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 3.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_At_06
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_At_07
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_At_08
+	structures: Wall
+	startRow: 1.020833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_At_09
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_10
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 3.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_11
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 2.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_12
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_13
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 1.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_14
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_15
+	structures: Wall
+	startRow: 0.770833
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_At_16
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_At_17
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_At_18
+	structures: Wall
+	startRow: 0.020833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_At_19
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_At_20
+	structures: Wall
+	startRow: 1.020833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_At_21
+	structures: Wall
+	startRow: 1.270833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_At
+	structures: _mark_At_00, _mark_At_01, _mark_At_02, _mark_At_03, _mark_At_04, _mark_At_05, _mark_At_06, _mark_At_07, _mark_At_08, _mark_At_09, _mark_At_10, _mark_At_11, _mark_At_12, _mark_At_13, _mark_At_14, _mark_At_15, _mark_At_16, _mark_At_17, _mark_At_18, _mark_At_19, _mark_At_20, _mark_At_21
+
+define: _mark_Asterisk_00
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.083333
+	width: 2.000000
+	height: 0.250000
+
+define: _mark_Asterisk_01
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 2.333333
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Asterisk_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Asterisk_03
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.583333
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Asterisk_04
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 1.583333
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Asterisk_05
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Asterisk_06
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Asterisk_07
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_08
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_09
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.833333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_10
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_11
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 1.333333
+	width: 0.500000
+	height: 0.250000
+
+define: mark_Asterisk
+	structures: _mark_Asterisk_00, _mark_Asterisk_01, _mark_Asterisk_02, _mark_Asterisk_03, _mark_Asterisk_04, _mark_Asterisk_05, _mark_Asterisk_06, _mark_Asterisk_07, _mark_Asterisk_08, _mark_Asterisk_09, _mark_Asterisk_10, _mark_Asterisk_11
+
+define: _mark_VerticalBar_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.000000
+	width: 0.250000
+	height: 4.000000
+
+define: mark_VerticalBar
+	structures: _mark_VerticalBar_00
+
+define: _mark_Underscore_00
+	structures: Wall
+	startRow: -2.000000
+	startHeight: 0.000000
+	width: 4.000000
+	height: 0.250000
+
+define: mark_Underscore
+	structures: _mark_Underscore_00
+
+define: _mark_Slash_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_01
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_02
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_03
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_04
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_05
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_06
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_07
+	structures: Wall
+	startRow: 0.010417
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_08
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_10
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_11
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_12
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Slash_13
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Slash
+	structures: _mark_Slash_00, _mark_Slash_01, _mark_Slash_02, _mark_Slash_03, _mark_Slash_04, _mark_Slash_05, _mark_Slash_06, _mark_Slash_07, _mark_Slash_08, _mark_Slash_09, _mark_Slash_10, _mark_Slash_11, _mark_Slash_12, _mark_Slash_13
+
+define: _mark_BackSlash_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_01
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_02
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_03
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_04
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_05
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_06
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_07
+	structures: Wall
+	startRow: 0.010417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_08
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_10
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_11
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_12
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_BackSlash_13
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_BackSlash
+	structures: _mark_BackSlash_00, _mark_BackSlash_01, _mark_BackSlash_02, _mark_BackSlash_03, _mark_BackSlash_04, _mark_BackSlash_05, _mark_BackSlash_06, _mark_BackSlash_07, _mark_BackSlash_08, _mark_BackSlash_09, _mark_BackSlash_10, _mark_BackSlash_11, _mark_BackSlash_12, _mark_BackSlash_13
+
+define: _mark_jpAsterisk_00
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_01
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_02
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_03
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_04
+	structures: Wall
+	startRow: 0.020833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_05
+	structures: Wall
+	startRow: 0.020833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_06
+	structures: Wall
+	startRow: 1.020833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_07
+	structures: Wall
+	startRow: 1.270833
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpAsterisk_08
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 1.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_jpAsterisk_09
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_10
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_11
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_12
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_13
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_14
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_15
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_16
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_17
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_18
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_19
+	structures: Wall
+	startRow: 0.270833
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_20
+	structures: Wall
+	startRow: 0.270833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_21
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_22
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_23
+	structures: Wall
+	startRow: 0.770833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_24
+	structures: Wall
+	startRow: 0.770833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_25
+	structures: Wall
+	startRow: 1.020833
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_26
+	structures: Wall
+	startRow: 1.020833
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_27
+	structures: Wall
+	startRow: 1.270833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpAsterisk_28
+	structures: Wall
+	startRow: 1.270833
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_jpAsterisk
+	structures: _mark_jpAsterisk_00, _mark_jpAsterisk_01, _mark_jpAsterisk_02, _mark_jpAsterisk_03, _mark_jpAsterisk_04, _mark_jpAsterisk_05, _mark_jpAsterisk_06, _mark_jpAsterisk_07, _mark_jpAsterisk_08, _mark_jpAsterisk_09, _mark_jpAsterisk_10, _mark_jpAsterisk_11, _mark_jpAsterisk_12, _mark_jpAsterisk_13, _mark_jpAsterisk_14, _mark_jpAsterisk_15, _mark_jpAsterisk_16, _mark_jpAsterisk_17, _mark_jpAsterisk_18, _mark_jpAsterisk_19, _mark_jpAsterisk_20, _mark_jpAsterisk_21, _mark_jpAsterisk_22, _mark_jpAsterisk_23, _mark_jpAsterisk_24, _mark_jpAsterisk_25, _mark_jpAsterisk_26, _mark_jpAsterisk_27, _mark_jpAsterisk_28
+
+define: _mark_Star_00
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 2.104167
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_Star_01
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 2.104167
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_Star_02
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_03
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_04
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_05
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_06
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_07
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_08
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_09
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 0.854167
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Star_10
+	structures: Wall
+	startRow: -1.395833
+	startHeight: 1.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_11
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_12
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_13
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_14
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_15
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_16
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_17
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 1.854167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Star
+	structures: _mark_Star_00, _mark_Star_01, _mark_Star_02, _mark_Star_03, _mark_Star_04, _mark_Star_05, _mark_Star_06, _mark_Star_07, _mark_Star_08, _mark_Star_09, _mark_Star_10, _mark_Star_11, _mark_Star_12, _mark_Star_13, _mark_Star_14, _mark_Star_15, _mark_Star_16, _mark_Star_17
+
+define: _mark_Heart_00
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Heart_01
+	structures: Wall
+	startRow: 1.604167
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Heart_02
+	structures: Wall
+	startRow: -1.395833
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Heart_03
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Heart_04
+	structures: Wall
+	startRow: -1.645833
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Heart_05
+	structures: Wall
+	startRow: 1.354167
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Heart_06
+	structures: Wall
+	startRow: -1.645833
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_07
+	structures: Wall
+	startRow: -1.395833
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_08
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_09
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_10
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_11
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_12
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_13
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_14
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_15
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_16
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_17
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_18
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_19
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_20
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Heart_21
+	structures: Wall
+	startRow: 1.354167
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Heart
+	structures: _mark_Heart_00, _mark_Heart_01, _mark_Heart_02, _mark_Heart_03, _mark_Heart_04, _mark_Heart_05, _mark_Heart_06, _mark_Heart_07, _mark_Heart_08, _mark_Heart_09, _mark_Heart_10, _mark_Heart_11, _mark_Heart_12, _mark_Heart_13, _mark_Heart_14, _mark_Heart_15, _mark_Heart_16, _mark_Heart_17, _mark_Heart_18, _mark_Heart_19, _mark_Heart_20, _mark_Heart_21
+
+define: _mark_Square_00
+	structures: Wall
+	startRow: -1.687500
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_Square_01
+	structures: Wall
+	startRow: 1.562500
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_Square_02
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 3.562500
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_Square_03
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 0.312500
+	width: 3.000000
+	height: 0.250000
+
+define: mark_Square
+	structures: _mark_Square_00, _mark_Square_01, _mark_Square_02, _mark_Square_03
+
+define: _mark_Triangle_00
+	structures: Wall
+	startRow: -1.843750
+	startHeight: 0.572917
+	width: 3.750000
+	height: 0.250000
+
+define: _mark_Triangle_01
+	structures: Wall
+	startRow: -1.093750
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Triangle_02
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Triangle_03
+	structures: Wall
+	startRow: 0.156250
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Triangle_04
+	structures: Wall
+	startRow: 0.906250
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Triangle_05
+	structures: Wall
+	startRow: -1.843750
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_06
+	structures: Wall
+	startRow: -1.593750
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_07
+	structures: Wall
+	startRow: -1.343750
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_08
+	structures: Wall
+	startRow: -0.843750
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_09
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_10
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_11
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 2.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_12
+	structures: Wall
+	startRow: 0.656250
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_13
+	structures: Wall
+	startRow: 1.156250
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_14
+	structures: Wall
+	startRow: 1.406250
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Triangle_15
+	structures: Wall
+	startRow: 1.656250
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Triangle
+	structures: _mark_Triangle_00, _mark_Triangle_01, _mark_Triangle_02, _mark_Triangle_03, _mark_Triangle_04, _mark_Triangle_05, _mark_Triangle_06, _mark_Triangle_07, _mark_Triangle_08, _mark_Triangle_09, _mark_Triangle_10, _mark_Triangle_11, _mark_Triangle_12, _mark_Triangle_13, _mark_Triangle_14, _mark_Triangle_15
+
+define: _mark_Circle_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Circle_01
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Circle_02
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Circle_03
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Circle_04
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_05
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_06
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_07
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_08
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_10
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_11
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_12
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_13
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_14
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_15
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Circle
+	structures: _mark_Circle_00, _mark_Circle_01, _mark_Circle_02, _mark_Circle_03, _mark_Circle_04, _mark_Circle_05, _mark_Circle_06, _mark_Circle_07, _mark_Circle_08, _mark_Circle_09, _mark_Circle_10, _mark_Circle_11, _mark_Circle_12, _mark_Circle_13, _mark_Circle_14, _mark_Circle_15
+
+define: _mark_DoubleCircle_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_DoubleCircle_01
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_DoubleCircle_02
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_DoubleCircle_03
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_DoubleCircle_04
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_05
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_06
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_07
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_08
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_10
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_11
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_12
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_13
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_14
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_15
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_16
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 2.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_17
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 1.062500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_18
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_19
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_20
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_21
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_22
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_23
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_24
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_25
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_26
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_27
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_DoubleCircle
+	structures: _mark_DoubleCircle_00, _mark_DoubleCircle_01, _mark_DoubleCircle_02, _mark_DoubleCircle_03, _mark_DoubleCircle_04, _mark_DoubleCircle_05, _mark_DoubleCircle_06, _mark_DoubleCircle_07, _mark_DoubleCircle_08, _mark_DoubleCircle_09, _mark_DoubleCircle_10, _mark_DoubleCircle_11, _mark_DoubleCircle_12, _mark_DoubleCircle_13, _mark_DoubleCircle_14, _mark_DoubleCircle_15, _mark_DoubleCircle_16, _mark_DoubleCircle_17, _mark_DoubleCircle_18, _mark_DoubleCircle_19, _mark_DoubleCircle_20, _mark_DoubleCircle_21, _mark_DoubleCircle_22, _mark_DoubleCircle_23, _mark_DoubleCircle_24, _mark_DoubleCircle_25, _mark_DoubleCircle_26, _mark_DoubleCircle_27
+
+define: _mark_UpArrow_00
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_UpArrow_01
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_UpArrow_02
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_UpArrow_03
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_UpArrow_04
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_UpArrow
+	structures: _mark_UpArrow_00, _mark_UpArrow_01, _mark_UpArrow_02, _mark_UpArrow_03, _mark_UpArrow_04
+
+define: _mark_DownArrow_00
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_DownArrow_01
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_02
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_03
+	structures: Wall
+	startRow: 0.156250
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_04
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_DownArrow
+	structures: _mark_DownArrow_00, _mark_DownArrow_01, _mark_DownArrow_02, _mark_DownArrow_03, _mark_DownArrow_04
+
+define: _mark_LeftArrow_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 2.062500
+	width: 3.500000
+	height: 0.250000
+
+define: _mark_LeftArrow_01
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_LeftArrow_02
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_LeftArrow_03
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_LeftArrow_04
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_LeftArrow
+	structures: _mark_LeftArrow_00, _mark_LeftArrow_01, _mark_LeftArrow_02, _mark_LeftArrow_03, _mark_LeftArrow_04
+
+define: _mark_RightArrow_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 2.062500
+	width: 3.500000
+	height: 0.250000
+
+define: _mark_RightArrow_01
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_RightArrow_02
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_RightArrow_03
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_RightArrow_04
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_RightArrow
+	structures: _mark_RightArrow_00, _mark_RightArrow_01, _mark_RightArrow_02, _mark_RightArrow_03, _mark_RightArrow_04
+
+define: _mark_AngleBracket0_00
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket0_01
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket0_02
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_03
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_04
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_05
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_06
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_07
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_08
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_09
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_10
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_11
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_AngleBracket0
+	structures: _mark_AngleBracket0_00, _mark_AngleBracket0_01, _mark_AngleBracket0_02, _mark_AngleBracket0_03, _mark_AngleBracket0_04, _mark_AngleBracket0_05, _mark_AngleBracket0_06, _mark_AngleBracket0_07, _mark_AngleBracket0_08, _mark_AngleBracket0_09, _mark_AngleBracket0_10, _mark_AngleBracket0_11
+
+define: _mark_AngleBracket1_00
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket1_01
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket1_02
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket1_03
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket1_04
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket1_05
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket1_06
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket1_07
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket1_08
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket1_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket1_10
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket1_11
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_AngleBracket1
+	structures: _mark_AngleBracket1_00, _mark_AngleBracket1_01, _mark_AngleBracket1_02, _mark_AngleBracket1_03, _mark_AngleBracket1_04, _mark_AngleBracket1_05, _mark_AngleBracket1_06, _mark_AngleBracket1_07, _mark_AngleBracket1_08, _mark_AngleBracket1_09, _mark_AngleBracket1_10, _mark_AngleBracket1_11
+
+define: _mark_Parentheses0_00
+	structures: Wall
+	startRow: 0.447917
+	startHeight: 1.312500
+	width: 0.250000
+	height: 1.500000
+
+define: _mark_Parentheses0_01
+	structures: Wall
+	startRow: 0.697917
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Parentheses0_02
+	structures: Wall
+	startRow: 0.697917
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Parentheses0_03
+	structures: Wall
+	startRow: 0.947917
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses0_04
+	structures: Wall
+	startRow: 0.947917
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses0_05
+	structures: Wall
+	startRow: 1.197917
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses0_06
+	structures: Wall
+	startRow: 1.197917
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Parentheses0
+	structures: _mark_Parentheses0_00, _mark_Parentheses0_01, _mark_Parentheses0_02, _mark_Parentheses0_03, _mark_Parentheses0_04, _mark_Parentheses0_05, _mark_Parentheses0_06
+
+define: _mark_Parentheses1_00
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 1.312500
+	width: 0.250000
+	height: 1.500000
+
+define: _mark_Parentheses1_01
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Parentheses1_02
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Parentheses1_03
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses1_04
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses1_05
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Parentheses1_06
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Parentheses1
+	structures: _mark_Parentheses1_00, _mark_Parentheses1_01, _mark_Parentheses1_02, _mark_Parentheses1_03, _mark_Parentheses1_04, _mark_Parentheses1_05, _mark_Parentheses1_06
+
+define: _mark_CornerBracket0_00
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 0.833333
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_CornerBracket0_01
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 3.583333
+	width: 0.750000
+	height: 0.250000
+
+define: mark_CornerBracket0
+	structures: _mark_CornerBracket0_00, _mark_CornerBracket0_01
+
+define: _mark_CornerBracket1_00
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_CornerBracket1_01
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: mark_CornerBracket1
+	structures: _mark_CornerBracket1_00, _mark_CornerBracket1_01
+
+define: _mark_Braces0_00
+	structures: Wall
+	startRow: 0.958333
+	startHeight: 0.562500
+	width: 0.250000
+	height: 1.500000
+
+define: _mark_Braces0_01
+	structures: Wall
+	startRow: 0.958333
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_Braces0_02
+	structures: Wall
+	startRow: 0.708333
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces0_03
+	structures: Wall
+	startRow: 1.208333
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces0_04
+	structures: Wall
+	startRow: 1.208333
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Braces0
+	structures: _mark_Braces0_00, _mark_Braces0_01, _mark_Braces0_02, _mark_Braces0_03, _mark_Braces0_04
+
+define: _mark_Braces1_00
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 0.562500
+	width: 0.250000
+	height: 1.500000
+
+define: _mark_Braces1_01
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_Braces1_02
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces1_03
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces1_04
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Braces1
+	structures: _mark_Braces1_00, _mark_Braces1_01, _mark_Braces1_02, _mark_Braces1_03, _mark_Braces1_04
+
+define: _mark_BoxBrackets0_00
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_BoxBrackets0_01
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 3.562500
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_BoxBrackets0_02
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: mark_BoxBrackets0
+	structures: _mark_BoxBrackets0_00, _mark_BoxBrackets0_01, _mark_BoxBrackets0_02
+
+define: _mark_BoxBrackets1_00
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_BoxBrackets1_01
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 3.562500
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_BoxBrackets1_02
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: mark_BoxBrackets1
+	structures: _mark_BoxBrackets1_00, _mark_BoxBrackets1_01, _mark_BoxBrackets1_02
+
+define: _mark_LenticularBracket0_00
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_LenticularBracket0_01
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 2.812500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_LenticularBracket0_02
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 0.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_LenticularBracket0_03
+	structures: Wall
+	startRow: 1.000000
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_LenticularBracket0_04
+	structures: Wall
+	startRow: 1.000000
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_LenticularBracket0_05
+	structures: Wall
+	startRow: 1.250000
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_LenticularBracket0_06
+	structures: Wall
+	startRow: 1.250000
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_LenticularBracket0
+	structures: _mark_LenticularBracket0_00, _mark_LenticularBracket0_01, _mark_LenticularBracket0_02, _mark_LenticularBracket0_03, _mark_LenticularBracket0_04, _mark_LenticularBracket0_05, _mark_LenticularBracket0_06
+
+define: _mark_LenticularBracket1_00
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_LenticularBracket1_01
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 2.812500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_LenticularBracket1_02
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_LenticularBracket1_03
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_LenticularBracket1_04
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_LenticularBracket1_05
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_LenticularBracket1_06
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_LenticularBracket1
+	structures: _mark_LenticularBracket1_00, _mark_LenticularBracket1_01, _mark_LenticularBracket1_02, _mark_LenticularBracket1_03, _mark_LenticularBracket1_04, _mark_LenticularBracket1_05, _mark_LenticularBracket1_06
+
+define: _mark_WhiteCornerBracket0_00
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_WhiteCornerBracket0_01
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 2.500000
+
+define: _mark_WhiteCornerBracket0_02
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 3.583333
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket0_03
+	structures: Wall
+	startRow: 1.239583
+	startHeight: 3.083333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_WhiteCornerBracket0_04
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket0_05
+	structures: Wall
+	startRow: 0.989583
+	startHeight: 3.083333
+	width: 0.250000
+	height: 0.250000
+
+define: mark_WhiteCornerBracket0
+	structures: _mark_WhiteCornerBracket0_00, _mark_WhiteCornerBracket0_01, _mark_WhiteCornerBracket0_02, _mark_WhiteCornerBracket0_03, _mark_WhiteCornerBracket0_04, _mark_WhiteCornerBracket0_05
+
+define: _mark_WhiteCornerBracket1_00
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_WhiteCornerBracket1_01
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 0.812500
+	width: 0.250000
+	height: 2.500000
+
+define: _mark_WhiteCornerBracket1_02
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket1_03
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_WhiteCornerBracket1_04
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket1_05
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_WhiteCornerBracket1
+	structures: _mark_WhiteCornerBracket1_00, _mark_WhiteCornerBracket1_01, _mark_WhiteCornerBracket1_02, _mark_WhiteCornerBracket1_03, _mark_WhiteCornerBracket1_04, _mark_WhiteCornerBracket1_05
+
