@@ -1,0 +1,115 @@
+define: _kata_PA_00
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_PA_01
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 1.583333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_02
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 2.083333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_03
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 1.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_04
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 2.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_05
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 1.333333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_06
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 2.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PA_07
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_08
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.083333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_09
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 1.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_10
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_11
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_12
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_13
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 2.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_14
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 3.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PA_15
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.250000
+
+define: kata_PA
+	structures: _kata_PA_00, _kata_PA_01, _kata_PA_02, _kata_PA_03, _kata_PA_04, _kata_PA_05, _kata_PA_06, _kata_PA_07, _kata_PA_08, _kata_PA_09, _kata_PA_10, _kata_PA_11, _kata_PA_12, _kata_PA_13, _kata_PA_14, _kata_PA_15
+

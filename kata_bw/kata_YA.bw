@@ -1,0 +1,115 @@
+define: _kata_YA_00
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 2.062500
+	width: 0.250000
+	height: 1.500000
+
+define: _kata_YA_01
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 1.000000
+
+define: _kata_YA_02
+	structures: Wall
+	startRow: 0.114583
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_YA_03
+	structures: Wall
+	startRow: 1.114583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_YA_04
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 2.562500
+	width: 0.750000
+	height: 0.250000
+
+define: _kata_YA_05
+	structures: Wall
+	startRow: -0.635417
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_YA_06
+	structures: Wall
+	startRow: 0.614583
+	startHeight: 2.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_YA_07
+	structures: Wall
+	startRow: -0.885417
+	startHeight: 2.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_YA_08
+	structures: Wall
+	startRow: -1.385417
+	startHeight: 2.062500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_YA_09
+	structures: Wall
+	startRow: -1.635417
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_10
+	structures: Wall
+	startRow: -0.885417
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_11
+	structures: Wall
+	startRow: -0.135417
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_12
+	structures: Wall
+	startRow: 0.364583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_13
+	structures: Wall
+	startRow: 0.614583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_14
+	structures: Wall
+	startRow: 0.864583
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_YA_15
+	structures: Wall
+	startRow: 1.364583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_YA
+	structures: _kata_YA_00, _kata_YA_01, _kata_YA_02, _kata_YA_03, _kata_YA_04, _kata_YA_05, _kata_YA_06, _kata_YA_07, _kata_YA_08, _kata_YA_09, _kata_YA_10, _kata_YA_11, _kata_YA_12, _kata_YA_13, _kata_YA_14, _kata_YA_15
+

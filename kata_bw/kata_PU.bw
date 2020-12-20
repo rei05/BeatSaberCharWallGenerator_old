@@ -1,0 +1,115 @@
+define: _kata_PU_00
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 2.822917
+	width: 1.750000
+	height: 0.250000
+
+define: _kata_PU_01
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 3.072917
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_PU_02
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 0.572917
+	width: 0.750000
+	height: 0.250000
+
+define: _kata_PU_03
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 2.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PU_04
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PU_05
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PU_06
+	structures: Wall
+	startRow: 1.604167
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_PU_07
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 0.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_PU_08
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_09
+	structures: Wall
+	startRow: -1.645833
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_10
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 1.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_11
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_12
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 1.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_13
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_14
+	structures: Wall
+	startRow: 1.354167
+	startHeight: 3.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_PU_15
+	structures: Wall
+	startRow: 1.354167
+	startHeight: 2.822917
+	width: 0.250000
+	height: 0.250000
+
+define: kata_PU
+	structures: _kata_PU_00, _kata_PU_01, _kata_PU_02, _kata_PU_03, _kata_PU_04, _kata_PU_05, _kata_PU_06, _kata_PU_07, _kata_PU_08, _kata_PU_09, _kata_PU_10, _kata_PU_11, _kata_PU_12, _kata_PU_13, _kata_PU_14, _kata_PU_15
+

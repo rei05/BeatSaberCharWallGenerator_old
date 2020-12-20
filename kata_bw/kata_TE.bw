@@ -1,0 +1,87 @@
+define: _kata_TE_00
+	structures: Wall
+	startRow: -1.229167
+	startHeight: 2.312500
+	width: 1.750000
+	height: 0.250000
+
+define: _kata_TE_01
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 3.062500
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_TE_02
+	structures: Wall
+	startRow: 0.520833
+	startHeight: 2.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_TE_03
+	structures: Wall
+	startRow: 0.020833
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_TE_04
+	structures: Wall
+	startRow: -0.229167
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_TE_05
+	structures: Wall
+	startRow: 0.270833
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_TE_06
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_TE_07
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_TE_08
+	structures: Wall
+	startRow: -0.979167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_TE_09
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_TE_10
+	structures: Wall
+	startRow: -0.479167
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_TE_11
+	structures: Wall
+	startRow: 0.270833
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_TE
+	structures: _kata_TE_00, _kata_TE_01, _kata_TE_02, _kata_TE_03, _kata_TE_04, _kata_TE_05, _kata_TE_06, _kata_TE_07, _kata_TE_08, _kata_TE_09, _kata_TE_10, _kata_TE_11
+

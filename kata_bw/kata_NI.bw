@@ -1,0 +1,45 @@
+define: _kata_NI_00
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 1.343750
+	width: 2.000000
+	height: 0.250000
+
+define: _kata_NI_01
+	structures: Wall
+	startRow: -0.385417
+	startHeight: 2.593750
+	width: 1.500000
+	height: 0.250000
+
+define: _kata_NI_02
+	structures: Wall
+	startRow: -1.385417
+	startHeight: 1.093750
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_NI_03
+	structures: Wall
+	startRow: -0.885417
+	startHeight: 2.343750
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_NI_04
+	structures: Wall
+	startRow: -1.635417
+	startHeight: 1.343750
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_NI_05
+	structures: Wall
+	startRow: -1.135417
+	startHeight: 2.593750
+	width: 0.250000
+	height: 0.250000
+
+define: kata_NI
+	structures: _kata_NI_00, _kata_NI_01, _kata_NI_02, _kata_NI_03, _kata_NI_04, _kata_NI_05
+

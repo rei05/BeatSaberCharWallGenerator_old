@@ -1,0 +1,122 @@
+define: _kata_DE_00
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 2.312500
+	width: 1.750000
+	height: 0.250000
+
+define: _kata_DE_01
+	structures: Wall
+	startRow: -0.937500
+	startHeight: 3.062500
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_DE_02
+	structures: Wall
+	startRow: 0.312500
+	startHeight: 2.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _kata_DE_03
+	structures: Wall
+	startRow: -0.187500
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_DE_04
+	structures: Wall
+	startRow: -0.437500
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_DE_05
+	structures: Wall
+	startRow: 0.062500
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_DE_06
+	structures: Wall
+	startRow: -1.687500
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_07
+	structures: Wall
+	startRow: -1.187500
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_08
+	structures: Wall
+	startRow: -1.187500
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_09
+	structures: Wall
+	startRow: -0.937500
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_10
+	structures: Wall
+	startRow: -0.687500
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_11
+	structures: Wall
+	startRow: 0.062500
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_12
+	structures: Wall
+	startRow: 1.062500
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_13
+	structures: Wall
+	startRow: 1.312500
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_14
+	structures: Wall
+	startRow: 1.312500
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_15
+	structures: Wall
+	startRow: 1.562500
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_DE_16
+	structures: Wall
+	startRow: 1.562500
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_DE
+	structures: _kata_DE_00, _kata_DE_01, _kata_DE_02, _kata_DE_03, _kata_DE_04, _kata_DE_05, _kata_DE_06, _kata_DE_07, _kata_DE_08, _kata_DE_09, _kata_DE_10, _kata_DE_11, _kata_DE_12, _kata_DE_13, _kata_DE_14, _kata_DE_15, _kata_DE_16
+

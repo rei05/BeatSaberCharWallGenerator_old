@@ -1,0 +1,136 @@
+define: _kata_VU_00
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 2.812500
+	width: 1.750000
+	height: 0.250000
+
+define: _kata_VU_01
+	structures: Wall
+	startRow: -1.593750
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.250000
+
+define: _kata_VU_02
+	structures: Wall
+	startRow: -1.343750
+	startHeight: 2.562500
+	width: 0.750000
+	height: 0.250000
+
+define: _kata_VU_03
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_VU_04
+	structures: Wall
+	startRow: 0.156250
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_VU_05
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_VU_06
+	structures: Wall
+	startRow: 0.656250
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_VU_07
+	structures: Wall
+	startRow: -1.093750
+	startHeight: 0.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_VU_08
+	structures: Wall
+	startRow: -1.843750
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_09
+	structures: Wall
+	startRow: -0.843750
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_10
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_11
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_12
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_13
+	structures: Wall
+	startRow: 0.656250
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_14
+	structures: Wall
+	startRow: 1.156250
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_15
+	structures: Wall
+	startRow: 1.406250
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_16
+	structures: Wall
+	startRow: 1.406250
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_17
+	structures: Wall
+	startRow: 1.656250
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_VU_18
+	structures: Wall
+	startRow: 1.656250
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_VU
+	structures: _kata_VU_00, _kata_VU_01, _kata_VU_02, _kata_VU_03, _kata_VU_04, _kata_VU_05, _kata_VU_06, _kata_VU_07, _kata_VU_08, _kata_VU_09, _kata_VU_10, _kata_VU_11, _kata_VU_12, _kata_VU_13, _kata_VU_14, _kata_VU_15, _kata_VU_16, _kata_VU_17, _kata_VU_18
+

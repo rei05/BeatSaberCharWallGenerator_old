@@ -1,0 +1,115 @@
+define: _kata_WO_00
+	structures: Wall
+	startRow: 0.927083
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.250000
+
+define: _kata_WO_01
+	structures: Wall
+	startRow: -1.072917
+	startHeight: 2.812500
+	width: 1.250000
+	height: 0.250000
+
+define: _kata_WO_02
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_WO_03
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 3.062500
+	width: 0.750000
+	height: 0.250000
+
+define: _kata_WO_04
+	structures: Wall
+	startRow: -0.322917
+	startHeight: 2.062500
+	width: 0.750000
+	height: 0.250000
+
+define: _kata_WO_05
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 1.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_WO_06
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_WO_07
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 0.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _kata_WO_08
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_09
+	structures: Wall
+	startRow: -1.072917
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_10
+	structures: Wall
+	startRow: -0.322917
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_11
+	structures: Wall
+	startRow: -0.072917
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_12
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_13
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_14
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_WO_15
+	structures: Wall
+	startRow: 1.177083
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_WO
+	structures: _kata_WO_00, _kata_WO_01, _kata_WO_02, _kata_WO_03, _kata_WO_04, _kata_WO_05, _kata_WO_06, _kata_WO_07, _kata_WO_08, _kata_WO_09, _kata_WO_10, _kata_WO_11, _kata_WO_12, _kata_WO_13, _kata_WO_14, _kata_WO_15
+

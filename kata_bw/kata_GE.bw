@@ -1,0 +1,136 @@
+define: _kata_GE_00
+	structures: Wall
+	startRow: -0.833333
+	startHeight: 2.312500
+	width: 2.250000
+	height: 0.250000
+
+define: _kata_GE_01
+	structures: Wall
+	startRow: -0.833333
+	startHeight: 2.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _kata_GE_02
+	structures: Wall
+	startRow: 0.166667
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.750000
+
+define: _kata_GE_03
+	structures: Wall
+	startRow: -1.083333
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_GE_04
+	structures: Wall
+	startRow: -0.083333
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_GE_05
+	structures: Wall
+	startRow: -1.583333
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_06
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_07
+	structures: Wall
+	startRow: -1.083333
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_08
+	structures: Wall
+	startRow: -0.833333
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_09
+	structures: Wall
+	startRow: -0.583333
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_10
+	structures: Wall
+	startRow: -0.583333
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_11
+	structures: Wall
+	startRow: -0.333333
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_12
+	structures: Wall
+	startRow: 0.416667
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_13
+	structures: Wall
+	startRow: 0.916667
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_14
+	structures: Wall
+	startRow: 0.916667
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_15
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_16
+	structures: Wall
+	startRow: 1.166667
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_17
+	structures: Wall
+	startRow: 1.416667
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_GE_18
+	structures: Wall
+	startRow: 1.416667
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: kata_GE
+	structures: _kata_GE_00, _kata_GE_01, _kata_GE_02, _kata_GE_03, _kata_GE_04, _kata_GE_05, _kata_GE_06, _kata_GE_07, _kata_GE_08, _kata_GE_09, _kata_GE_10, _kata_GE_11, _kata_GE_12, _kata_GE_13, _kata_GE_14, _kata_GE_15, _kata_GE_16, _kata_GE_17, _kata_GE_18
+

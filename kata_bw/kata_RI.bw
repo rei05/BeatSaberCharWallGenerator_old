@@ -1,0 +1,80 @@
+define: _kata_RI_00
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.354167
+	width: 0.250000
+	height: 2.000000
+
+define: _kata_RI_01
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.854167
+	width: 0.250000
+	height: 1.750000
+
+define: _kata_RI_02
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_RI_03
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 1.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _kata_RI_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_05
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_06
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_07
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_08
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_09
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 3.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _kata_RI_10
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.250000
+
+define: kata_RI
+	structures: _kata_RI_00, _kata_RI_01, _kata_RI_02, _kata_RI_03, _kata_RI_04, _kata_RI_05, _kata_RI_06, _kata_RI_07, _kata_RI_08, _kata_RI_09, _kata_RI_10
+
