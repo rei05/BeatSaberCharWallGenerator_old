@@ -1,0 +1,122 @@
+define: _hira_MO_00
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 2.000000
+
+define: _hira_MO_01
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.562500
+	width: 0.250000
+	height: 1.250000
+
+define: _hira_MO_02
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_MO_03
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _hira_MO_04
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_MO_05
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_MO_06
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_MO_07
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_MO_08
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_10
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_11
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_12
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_13
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_14
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_15
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_MO_16
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: hira_MO
+	structures: _hira_MO_00, _hira_MO_01, _hira_MO_02, _hira_MO_03, _hira_MO_04, _hira_MO_05, _hira_MO_06, _hira_MO_07, _hira_MO_08, _hira_MO_09, _hira_MO_10, _hira_MO_11, _hira_MO_12, _hira_MO_13, _hira_MO_14, _hira_MO_15, _hira_MO_16
+

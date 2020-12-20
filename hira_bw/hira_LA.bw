@@ -1,0 +1,143 @@
+define: _hira_LA_00
+	structures: Wall
+	startRow: -0.364583
+	startHeight: 0.562500
+	width: 0.250000
+	height: 2.250000
+
+define: _hira_LA_01
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_LA_02
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LA_03
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LA_04
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_LA_05
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 2.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LA_06
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 0.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LA_07
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_08
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_09
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_10
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_11
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_12
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_13
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_14
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_15
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_16
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_17
+	structures: Wall
+	startRow: 0.385417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_18
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LA_19
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: hira_LA
+	structures: _hira_LA_00, _hira_LA_01, _hira_LA_02, _hira_LA_03, _hira_LA_04, _hira_LA_05, _hira_LA_06, _hira_LA_07, _hira_LA_08, _hira_LA_09, _hira_LA_10, _hira_LA_11, _hira_LA_12, _hira_LA_13, _hira_LA_14, _hira_LA_15, _hira_LA_16, _hira_LA_17, _hira_LA_18, _hira_LA_19
+

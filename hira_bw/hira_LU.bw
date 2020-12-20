@@ -1,0 +1,80 @@
+define: _hira_LU_00
+	structures: Wall
+	startRow: 0.791667
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LU_01
+	structures: Wall
+	startRow: 0.041667
+	startHeight: 2.062500
+	width: 0.750000
+	height: 0.250000
+
+define: _hira_LU_02
+	structures: Wall
+	startRow: 0.541667
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_LU_03
+	structures: Wall
+	startRow: -0.208333
+	startHeight: 2.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LU_04
+	structures: Wall
+	startRow: 0.291667
+	startHeight: 2.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LU_05
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 1.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LU_06
+	structures: Wall
+	startRow: 0.041667
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LU_07
+	structures: Wall
+	startRow: -0.458333
+	startHeight: 0.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_LU_08
+	structures: Wall
+	startRow: -0.958333
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LU_09
+	structures: Wall
+	startRow: -0.708333
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LU_10
+	structures: Wall
+	startRow: 0.041667
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: hira_LU
+	structures: _hira_LU_00, _hira_LU_01, _hira_LU_02, _hira_LU_03, _hira_LU_04, _hira_LU_05, _hira_LU_06, _hira_LU_07, _hira_LU_08, _hira_LU_09, _hira_LU_10
+

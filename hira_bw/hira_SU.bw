@@ -1,0 +1,108 @@
+define: _hira_SU_00
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 0.854167
+	width: 0.250000
+	height: 2.750000
+
+define: _hira_SU_01
+	structures: Wall
+	startRow: 0.218750
+	startHeight: 2.854167
+	width: 1.250000
+	height: 0.250000
+
+define: _hira_SU_02
+	structures: Wall
+	startRow: -0.781250
+	startHeight: 1.354167
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_SU_03
+	structures: Wall
+	startRow: 0.218750
+	startHeight: 1.354167
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_SU_04
+	structures: Wall
+	startRow: -0.781250
+	startHeight: 2.854167
+	width: 0.750000
+	height: 0.250000
+
+define: _hira_SU_05
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 2.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_SU_06
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_SU_07
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 2.604167
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_SU_08
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 2.354167
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_SU_09
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 0.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_SU_10
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_SU_11
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 3.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_SU_12
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_SU_13
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_SU_14
+	structures: Wall
+	startRow: 0.968750
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.250000
+
+define: hira_SU
+	structures: _hira_SU_00, _hira_SU_01, _hira_SU_02, _hira_SU_03, _hira_SU_04, _hira_SU_05, _hira_SU_06, _hira_SU_07, _hira_SU_08, _hira_SU_09, _hira_SU_10, _hira_SU_11, _hira_SU_12, _hira_SU_13, _hira_SU_14
+

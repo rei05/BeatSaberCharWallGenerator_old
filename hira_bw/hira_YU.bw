@@ -1,0 +1,157 @@
+define: _hira_YU_00
+	structures: Wall
+	startRow: 0.218750
+	startHeight: 0.812500
+	width: 0.250000
+	height: 2.500000
+
+define: _hira_YU_01
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 1.062500
+	width: 0.250000
+	height: 1.250000
+
+define: _hira_YU_02
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_YU_03
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 0.812500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_YU_04
+	structures: Wall
+	startRow: -0.781250
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_YU_05
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_YU_06
+	structures: Wall
+	startRow: 1.218750
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_YU_07
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: _hira_YU_08
+	structures: Wall
+	startRow: -0.531250
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_YU_09
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_YU_10
+	structures: Wall
+	startRow: 0.968750
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_YU_11
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 2.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_YU_12
+	structures: Wall
+	startRow: 0.468750
+	startHeight: 2.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _hira_YU_13
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_14
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_15
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_16
+	structures: Wall
+	startRow: -0.281250
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_17
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_18
+	structures: Wall
+	startRow: -0.031250
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_19
+	structures: Wall
+	startRow: 0.468750
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_20
+	structures: Wall
+	startRow: 0.718750
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_YU_21
+	structures: Wall
+	startRow: 0.968750
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.250000
+
+define: hira_YU
+	structures: _hira_YU_00, _hira_YU_01, _hira_YU_02, _hira_YU_03, _hira_YU_04, _hira_YU_05, _hira_YU_06, _hira_YU_07, _hira_YU_08, _hira_YU_09, _hira_YU_10, _hira_YU_11, _hira_YU_12, _hira_YU_13, _hira_YU_14, _hira_YU_15, _hira_YU_16, _hira_YU_17, _hira_YU_18, _hira_YU_19, _hira_YU_20, _hira_YU_21
+

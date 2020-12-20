@@ -1,0 +1,129 @@
+define: _hira_LYU_00
+	structures: Wall
+	startRow: 0.427083
+	startHeight: 0.812500
+	width: 0.250000
+	height: 1.750000
+
+define: _hira_LYU_01
+	structures: Wall
+	startRow: -1.322917
+	startHeight: 1.062500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_LYU_02
+	structures: Wall
+	startRow: -0.322917
+	startHeight: 1.062500
+	width: 0.250000
+	height: 1.000000
+
+define: _hira_LYU_03
+	structures: Wall
+	startRow: -1.072917
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LYU_04
+	structures: Wall
+	startRow: -0.822917
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LYU_05
+	structures: Wall
+	startRow: -0.072917
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.750000
+
+define: _hira_LYU_06
+	structures: Wall
+	startRow: -0.572917
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: _hira_LYU_07
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 0.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_LYU_08
+	structures: Wall
+	startRow: 1.177083
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_LYU_09
+	structures: Wall
+	startRow: -1.072917
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_10
+	structures: Wall
+	startRow: -0.572917
+	startHeight: 1.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_11
+	structures: Wall
+	startRow: -0.072917
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_12
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_13
+	structures: Wall
+	startRow: 0.177083
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_14
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_15
+	structures: Wall
+	startRow: 0.677083
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_16
+	structures: Wall
+	startRow: 0.927083
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_LYU_17
+	structures: Wall
+	startRow: 0.927083
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: hira_LYU
+	structures: _hira_LYU_00, _hira_LYU_01, _hira_LYU_02, _hira_LYU_03, _hira_LYU_04, _hira_LYU_05, _hira_LYU_06, _hira_LYU_07, _hira_LYU_08, _hira_LYU_09, _hira_LYU_10, _hira_LYU_11, _hira_LYU_12, _hira_LYU_13, _hira_LYU_14, _hira_LYU_15, _hira_LYU_16, _hira_LYU_17
+

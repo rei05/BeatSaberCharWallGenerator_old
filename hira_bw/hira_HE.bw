@@ -1,0 +1,101 @@
+define: _hira_HE_00
+	structures: Wall
+	startRow: -1.187500
+	startHeight: 1.583333
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_HE_01
+	structures: Wall
+	startRow: -0.937500
+	startHeight: 2.083333
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_HE_02
+	structures: Wall
+	startRow: 1.562500
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _hira_HE_03
+	structures: Wall
+	startRow: -1.687500
+	startHeight: 1.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_04
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 1.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_05
+	structures: Wall
+	startRow: -0.687500
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_06
+	structures: Wall
+	startRow: -0.437500
+	startHeight: 2.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_07
+	structures: Wall
+	startRow: -0.187500
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_08
+	structures: Wall
+	startRow: 0.062500
+	startHeight: 2.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_09
+	structures: Wall
+	startRow: 0.312500
+	startHeight: 2.083333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_10
+	structures: Wall
+	startRow: 0.562500
+	startHeight: 1.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_11
+	structures: Wall
+	startRow: 0.812500
+	startHeight: 1.583333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_12
+	structures: Wall
+	startRow: 1.062500
+	startHeight: 1.333333
+	width: 0.250000
+	height: 0.250000
+
+define: _hira_HE_13
+	structures: Wall
+	startRow: 1.312500
+	startHeight: 1.083333
+	width: 0.250000
+	height: 0.250000
+
+define: hira_HE
+	structures: _hira_HE_00, _hira_HE_01, _hira_HE_02, _hira_HE_03, _hira_HE_04, _hira_HE_05, _hira_HE_06, _hira_HE_07, _hira_HE_08, _hira_HE_09, _hira_HE_10, _hira_HE_11, _hira_HE_12, _hira_HE_13
+
