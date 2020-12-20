@@ -1,0 +1,31 @@
+define: _mark_Hat_00
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 3.322917
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Hat_01
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Hat_02
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 3.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Hat_03
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Hat
+	structures: _mark_Hat_00, _mark_Hat_01, _mark_Hat_02, _mark_Hat_03
+

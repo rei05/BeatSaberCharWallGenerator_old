@@ -1,0 +1,17 @@
+define: _mark_jpLongSound_00
+	structures: Wall
+	startRow: -1.333333
+	startHeight: 2.031250
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_jpLongSound_01
+	structures: Wall
+	startRow: -1.583333
+	startHeight: 2.281250
+	width: 0.250000
+	height: 0.250000
+
+define: mark_jpLongSound
+	structures: _mark_jpLongSound_00, _mark_jpLongSound_01
+

@@ -1,0 +1,31 @@
+define: _mark_jpPeriod_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 0.302083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_jpPeriod_01
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 0.302083
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_jpPeriod_02
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.052083
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_jpPeriod_03
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.052083
+	width: 0.750000
+	height: 0.250000
+
+define: mark_jpPeriod
+	structures: _mark_jpPeriod_00, _mark_jpPeriod_01, _mark_jpPeriod_02, _mark_jpPeriod_03
+

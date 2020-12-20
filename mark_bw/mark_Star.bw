@@ -1,0 +1,129 @@
+define: _mark_Star_00
+	structures: Wall
+	startRow: -1.895833
+	startHeight: 2.104167
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_Star_01
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 2.104167
+	width: 1.500000
+	height: 0.250000
+
+define: _mark_Star_02
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_03
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_04
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_05
+	structures: Wall
+	startRow: -0.145833
+	startHeight: 3.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_06
+	structures: Wall
+	startRow: 0.104167
+	startHeight: 2.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_07
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_08
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Star_09
+	structures: Wall
+	startRow: -0.395833
+	startHeight: 0.854167
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Star_10
+	structures: Wall
+	startRow: -1.395833
+	startHeight: 1.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_11
+	structures: Wall
+	startRow: -1.145833
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_12
+	structures: Wall
+	startRow: -0.895833
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_13
+	structures: Wall
+	startRow: -0.645833
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_14
+	structures: Wall
+	startRow: 0.354167
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_15
+	structures: Wall
+	startRow: 0.604167
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_16
+	structures: Wall
+	startRow: 0.854167
+	startHeight: 1.604167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Star_17
+	structures: Wall
+	startRow: 1.104167
+	startHeight: 1.854167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Star
+	structures: _mark_Star_00, _mark_Star_01, _mark_Star_02, _mark_Star_03, _mark_Star_04, _mark_Star_05, _mark_Star_06, _mark_Star_07, _mark_Star_08, _mark_Star_09, _mark_Star_10, _mark_Star_11, _mark_Star_12, _mark_Star_13, _mark_Star_14, _mark_Star_15, _mark_Star_16, _mark_Star_17
+

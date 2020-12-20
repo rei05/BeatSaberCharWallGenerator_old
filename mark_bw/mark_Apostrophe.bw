@@ -1,0 +1,31 @@
+define: _mark_Apostrophe_00
+	structures: Wall
+	startRow: 0.010417
+	startHeight: 3.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Apostrophe_01
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Apostrophe_02
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Apostrophe_03
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Apostrophe
+	structures: _mark_Apostrophe_00, _mark_Apostrophe_01, _mark_Apostrophe_02, _mark_Apostrophe_03
+

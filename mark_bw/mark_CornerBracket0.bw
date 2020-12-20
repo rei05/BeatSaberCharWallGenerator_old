@@ -1,0 +1,17 @@
+define: _mark_CornerBracket0_00
+	structures: Wall
+	startRow: 0.500000
+	startHeight: 0.833333
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_CornerBracket0_01
+	structures: Wall
+	startRow: 0.750000
+	startHeight: 3.583333
+	width: 0.750000
+	height: 0.250000
+
+define: mark_CornerBracket0
+	structures: _mark_CornerBracket0_00, _mark_CornerBracket0_01
+

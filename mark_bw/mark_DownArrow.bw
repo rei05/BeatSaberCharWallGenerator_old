@@ -1,0 +1,38 @@
+define: _mark_DownArrow_00
+	structures: Wall
+	startRow: -0.093750
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_DownArrow_01
+	structures: Wall
+	startRow: -0.593750
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_02
+	structures: Wall
+	startRow: -0.343750
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_03
+	structures: Wall
+	startRow: 0.156250
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DownArrow_04
+	structures: Wall
+	startRow: 0.406250
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_DownArrow
+	structures: _mark_DownArrow_00, _mark_DownArrow_01, _mark_DownArrow_02, _mark_DownArrow_03, _mark_DownArrow_04
+

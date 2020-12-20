@@ -1,0 +1,10 @@
+define: _mark_Minus_00
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 2.031250
+	width: 2.750000
+	height: 0.250000
+
+define: mark_Minus
+	structures: _mark_Minus_00
+

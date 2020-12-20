@@ -1,0 +1,45 @@
+define: _mark_WhiteCornerBracket0_00
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 3.000000
+
+define: _mark_WhiteCornerBracket0_01
+	structures: Wall
+	startRow: 0.739583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 2.500000
+
+define: _mark_WhiteCornerBracket0_02
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 3.583333
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket0_03
+	structures: Wall
+	startRow: 1.239583
+	startHeight: 3.083333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_WhiteCornerBracket0_04
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_WhiteCornerBracket0_05
+	structures: Wall
+	startRow: 0.989583
+	startHeight: 3.083333
+	width: 0.250000
+	height: 0.250000
+
+define: mark_WhiteCornerBracket0
+	structures: _mark_WhiteCornerBracket0_00, _mark_WhiteCornerBracket0_01, _mark_WhiteCornerBracket0_02, _mark_WhiteCornerBracket0_03, _mark_WhiteCornerBracket0_04, _mark_WhiteCornerBracket0_05
+

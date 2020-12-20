@@ -1,0 +1,87 @@
+define: _mark_Asterisk_00
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.083333
+	width: 2.000000
+	height: 0.250000
+
+define: _mark_Asterisk_01
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 2.333333
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Asterisk_02
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Asterisk_03
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.583333
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Asterisk_04
+	structures: Wall
+	startRow: 0.239583
+	startHeight: 1.583333
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_Asterisk_05
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 2.583333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Asterisk_06
+	structures: Wall
+	startRow: -0.010417
+	startHeight: 0.833333
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Asterisk_07
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 2.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_08
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 2.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_09
+	structures: Wall
+	startRow: -0.260417
+	startHeight: 1.833333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_10
+	structures: Wall
+	startRow: -1.010417
+	startHeight: 1.333333
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Asterisk_11
+	structures: Wall
+	startRow: 0.489583
+	startHeight: 1.333333
+	width: 0.500000
+	height: 0.250000
+
+define: mark_Asterisk
+	structures: _mark_Asterisk_00, _mark_Asterisk_01, _mark_Asterisk_02, _mark_Asterisk_03, _mark_Asterisk_04, _mark_Asterisk_05, _mark_Asterisk_06, _mark_Asterisk_07, _mark_Asterisk_08, _mark_Asterisk_09, _mark_Asterisk_10, _mark_Asterisk_11
+

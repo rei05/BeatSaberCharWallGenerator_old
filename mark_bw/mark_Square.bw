@@ -1,0 +1,31 @@
+define: _mark_Square_00
+	structures: Wall
+	startRow: -1.687500
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_Square_01
+	structures: Wall
+	startRow: 1.562500
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_Square_02
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 3.562500
+	width: 3.000000
+	height: 0.250000
+
+define: _mark_Square_03
+	structures: Wall
+	startRow: -1.437500
+	startHeight: 0.312500
+	width: 3.000000
+	height: 0.250000
+
+define: mark_Square
+	structures: _mark_Square_00, _mark_Square_01, _mark_Square_02, _mark_Square_03
+

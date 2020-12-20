@@ -1,0 +1,199 @@
+define: _mark_DoubleCircle_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_DoubleCircle_01
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_DoubleCircle_02
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_DoubleCircle_03
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_DoubleCircle_04
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_05
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_06
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_07
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_08
+	structures: Wall
+	startRow: -0.739583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 2.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_10
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_11
+	structures: Wall
+	startRow: 0.760417
+	startHeight: 1.812500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_12
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_13
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_DoubleCircle_14
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_15
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_16
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 2.812500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_17
+	structures: Wall
+	startRow: -0.239583
+	startHeight: 1.062500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_18
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_19
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_DoubleCircle_20
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_21
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_22
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_23
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_24
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_25
+	structures: Wall
+	startRow: 0.260417
+	startHeight: 1.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_26
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_DoubleCircle_27
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_DoubleCircle
+	structures: _mark_DoubleCircle_00, _mark_DoubleCircle_01, _mark_DoubleCircle_02, _mark_DoubleCircle_03, _mark_DoubleCircle_04, _mark_DoubleCircle_05, _mark_DoubleCircle_06, _mark_DoubleCircle_07, _mark_DoubleCircle_08, _mark_DoubleCircle_09, _mark_DoubleCircle_10, _mark_DoubleCircle_11, _mark_DoubleCircle_12, _mark_DoubleCircle_13, _mark_DoubleCircle_14, _mark_DoubleCircle_15, _mark_DoubleCircle_16, _mark_DoubleCircle_17, _mark_DoubleCircle_18, _mark_DoubleCircle_19, _mark_DoubleCircle_20, _mark_DoubleCircle_21, _mark_DoubleCircle_22, _mark_DoubleCircle_23, _mark_DoubleCircle_24, _mark_DoubleCircle_25, _mark_DoubleCircle_26, _mark_DoubleCircle_27
+

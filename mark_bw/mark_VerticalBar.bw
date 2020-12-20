@@ -1,0 +1,10 @@
+define: _mark_VerticalBar_00
+	structures: Wall
+	startRow: -0.125000
+	startHeight: 0.000000
+	width: 0.250000
+	height: 4.000000
+
+define: mark_VerticalBar
+	structures: _mark_VerticalBar_00
+

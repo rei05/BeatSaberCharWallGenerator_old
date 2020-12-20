@@ -1,0 +1,24 @@
+define: _mark_BoxBrackets1_00
+	structures: Wall
+	startRow: -0.729167
+	startHeight: 0.312500
+	width: 0.250000
+	height: 3.500000
+
+define: _mark_BoxBrackets1_01
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 3.562500
+	width: 0.750000
+	height: 0.250000
+
+define: _mark_BoxBrackets1_02
+	structures: Wall
+	startRow: -1.479167
+	startHeight: 0.312500
+	width: 0.750000
+	height: 0.250000
+
+define: mark_BoxBrackets1
+	structures: _mark_BoxBrackets1_00, _mark_BoxBrackets1_01, _mark_BoxBrackets1_02
+

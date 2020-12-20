@@ -1,0 +1,87 @@
+define: _mark_AngleBracket0_00
+	structures: Wall
+	startRow: -1.114583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket0_01
+	structures: Wall
+	startRow: -0.864583
+	startHeight: 1.822917
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_AngleBracket0_02
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 2.822917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_03
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 2.322917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_04
+	structures: Wall
+	startRow: -0.614583
+	startHeight: 1.572917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_05
+	structures: Wall
+	startRow: 0.135417
+	startHeight: 1.072917
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_AngleBracket0_06
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 2.572917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_07
+	structures: Wall
+	startRow: -0.114583
+	startHeight: 1.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_08
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 3.072917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_09
+	structures: Wall
+	startRow: 0.635417
+	startHeight: 0.822917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_10
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 3.322917
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_AngleBracket0_11
+	structures: Wall
+	startRow: 0.885417
+	startHeight: 0.572917
+	width: 0.250000
+	height: 0.250000
+
+define: mark_AngleBracket0
+	structures: _mark_AngleBracket0_00, _mark_AngleBracket0_01, _mark_AngleBracket0_02, _mark_AngleBracket0_03, _mark_AngleBracket0_04, _mark_AngleBracket0_05, _mark_AngleBracket0_06, _mark_AngleBracket0_07, _mark_AngleBracket0_08, _mark_AngleBracket0_09, _mark_AngleBracket0_10, _mark_AngleBracket0_11
+

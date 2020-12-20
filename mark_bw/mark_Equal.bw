@@ -1,0 +1,17 @@
+define: _mark_Equal_00
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 2.052083
+	width: 2.500000
+	height: 0.250000
+
+define: _mark_Equal_01
+	structures: Wall
+	startRow: -1.218750
+	startHeight: 1.302083
+	width: 2.500000
+	height: 0.250000
+
+define: mark_Equal
+	structures: _mark_Equal_00, _mark_Equal_01
+

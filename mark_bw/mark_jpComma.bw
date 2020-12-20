@@ -1,0 +1,31 @@
+define: _mark_jpComma_00
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpComma_01
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_jpComma_02
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_jpComma_03
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_jpComma
+	structures: _mark_jpComma_00, _mark_jpComma_01, _mark_jpComma_02, _mark_jpComma_03
+

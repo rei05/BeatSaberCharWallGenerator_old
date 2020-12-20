@@ -1,0 +1,38 @@
+define: _mark_Braces1_00
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 0.562500
+	width: 0.250000
+	height: 1.500000
+
+define: _mark_Braces1_01
+	structures: Wall
+	startRow: -1.281250
+	startHeight: 2.312500
+	width: 0.250000
+	height: 1.250000
+
+define: _mark_Braces1_02
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 3.562500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces1_03
+	structures: Wall
+	startRow: -1.531250
+	startHeight: 0.312500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Braces1_04
+	structures: Wall
+	startRow: -1.031250
+	startHeight: 2.062500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Braces1
+	structures: _mark_Braces1_00, _mark_Braces1_01, _mark_Braces1_02, _mark_Braces1_03, _mark_Braces1_04
+

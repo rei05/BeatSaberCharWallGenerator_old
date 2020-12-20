@@ -1,0 +1,24 @@
+define: _mark_Comma_00
+	structures: Wall
+	startRow: -1.541667
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.750000
+
+define: _mark_Comma_01
+	structures: Wall
+	startRow: -1.791667
+	startHeight: 0.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Comma_02
+	structures: Wall
+	startRow: -1.791667
+	startHeight: 0.104167
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Comma
+	structures: _mark_Comma_00, _mark_Comma_01, _mark_Comma_02
+

@@ -1,0 +1,115 @@
+define: _mark_Circle_00
+	structures: Wall
+	startRow: -1.739583
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Circle_01
+	structures: Wall
+	startRow: 1.510417
+	startHeight: 1.562500
+	width: 0.250000
+	height: 1.000000
+
+define: _mark_Circle_02
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 3.562500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Circle_03
+	structures: Wall
+	startRow: -0.489583
+	startHeight: 0.312500
+	width: 1.000000
+	height: 0.250000
+
+define: _mark_Circle_04
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_05
+	structures: Wall
+	startRow: -1.489583
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_06
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 2.562500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_07
+	structures: Wall
+	startRow: 1.260417
+	startHeight: 1.062500
+	width: 0.250000
+	height: 0.500000
+
+define: _mark_Circle_08
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_09
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 3.312500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_10
+	structures: Wall
+	startRow: -0.989583
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_11
+	structures: Wall
+	startRow: 0.510417
+	startHeight: 0.562500
+	width: 0.500000
+	height: 0.250000
+
+define: _mark_Circle_12
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_13
+	structures: Wall
+	startRow: -1.239583
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_14
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 3.062500
+	width: 0.250000
+	height: 0.250000
+
+define: _mark_Circle_15
+	structures: Wall
+	startRow: 1.010417
+	startHeight: 0.812500
+	width: 0.250000
+	height: 0.250000
+
+define: mark_Circle
+	structures: _mark_Circle_00, _mark_Circle_01, _mark_Circle_02, _mark_Circle_03, _mark_Circle_04, _mark_Circle_05, _mark_Circle_06, _mark_Circle_07, _mark_Circle_08, _mark_Circle_09, _mark_Circle_10, _mark_Circle_11, _mark_Circle_12, _mark_Circle_13, _mark_Circle_14, _mark_Circle_15
+
