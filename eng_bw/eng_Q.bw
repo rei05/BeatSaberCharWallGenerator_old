@@ -1,0 +1,129 @@
+define: _eng_Q_00
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.604167
+	width: 1.250000
+	height: 0.250000
+
+define: _eng_Q_01
+	structures: Wall
+	startRow: -1.375000
+	startHeight: 1.604167
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_Q_02
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 1.604167
+	width: 0.250000
+	height: 1.000000
+
+define: _eng_Q_03
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 3.354167
+	width: 0.750000
+	height: 0.250000
+
+define: _eng_Q_04
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 2.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_05
+	structures: Wall
+	startRow: -1.125000
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_06
+	structures: Wall
+	startRow: -0.625000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_07
+	structures: Wall
+	startRow: 0.125000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_08
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 2.604167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_09
+	structures: Wall
+	startRow: 0.875000
+	startHeight: 1.104167
+	width: 0.250000
+	height: 0.500000
+
+define: _eng_Q_10
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 3.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_11
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 3.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_12
+	structures: Wall
+	startRow: -0.375000
+	startHeight: 1.354167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_13
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.104167
+	width: 0.500000
+	height: 0.250000
+
+define: _eng_Q_14
+	structures: Wall
+	startRow: -0.875000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_15
+	structures: Wall
+	startRow: 0.375000
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_16
+	structures: Wall
+	startRow: 0.625000
+	startHeight: 0.854167
+	width: 0.250000
+	height: 0.250000
+
+define: _eng_Q_17
+	structures: Wall
+	startRow: 1.125000
+	startHeight: 0.354167
+	width: 0.250000
+	height: 0.250000
+
+define: eng_Q
+	structures: _eng_Q_00, _eng_Q_01, _eng_Q_02, _eng_Q_03, _eng_Q_04, _eng_Q_05, _eng_Q_06, _eng_Q_07, _eng_Q_08, _eng_Q_09, _eng_Q_10, _eng_Q_11, _eng_Q_12, _eng_Q_13, _eng_Q_14, _eng_Q_15, _eng_Q_16, _eng_Q_17
+
